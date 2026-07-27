@@ -1121,7 +1121,7 @@ window.PRODUCTOS = [
     "descLarga": "Traje De Baño S/M en negro, talla M. Está como nuevo, prácticamente sin uso. Perfecto para dejar listo el verano con anticipación."
   },
   {
-    "nombre": "Falda",
+    "nombre": "Vestido Corto",
     "categoria": "Ropa adulto",
     "precio": 9990,
     "precioAntes": 0,
@@ -1137,7 +1137,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": "Falda en azul, talla M. En muy buen estado, con poco uso. Precio de oportunidad real."
+    "descLarga": "Vestido azul, talla M. En muy buen estado, con poco uso. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Alaniz",
@@ -1178,7 +1178,7 @@ window.PRODUCTOS = [
     "descLarga": "Vestido en azul, talla 11. Está como nuevo, prácticamente sin uso. Se va rápido en esta talla."
   },
   {
-    "nombre": "Falda",
+    "nombre": "Polera",
     "categoria": "Ropa adulto",
     "precio": 14990,
     "precioAntes": 0,
@@ -1194,7 +1194,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": "Falda en animal print, talla M. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
+    "descLarga": "Polera animal print, talla M. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Abercrombie & Fitch",
