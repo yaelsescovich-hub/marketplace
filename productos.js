@@ -1,4 +1,3 @@
-// Catálogo generado desde la planilla (174 productos)
 window.PRODUCTOS = [
   {
     "nombre": "Blusa Alaniz",
@@ -10,7 +9,14 @@ window.PRODUCTOS = [
     "desc": "Color verde. Poco uso",
     "foto": "img/001.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 1,
+    "marca": "Alaniz",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Allsaints",
@@ -22,7 +28,14 @@ window.PRODUCTOS = [
     "desc": "Color dorado. Poco uso",
     "foto": "img/002.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 2,
+    "marca": "Allsaints",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Desigual",
@@ -34,7 +47,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/003.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 3,
+    "marca": "Desigual",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Guess",
@@ -46,7 +66,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco y negro. Poco uso",
     "foto": "img/004.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 4,
+    "marca": "Guess",
+    "talla": "L",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Papaya",
@@ -58,7 +85,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/005.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 5,
+    "marca": "Papaya",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Calvin Klein",
@@ -70,7 +104,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/006.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 6,
+    "marca": "Calvin Klein",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Desigual",
@@ -82,7 +123,14 @@ window.PRODUCTOS = [
     "desc": "Color morado y verde. Poco uso",
     "foto": "img/007.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 7,
+    "marca": "Desigual",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Desigual",
@@ -94,7 +142,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/008.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 8,
+    "marca": "Desigual",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Rip Curl",
@@ -106,7 +161,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Poco uso",
     "foto": "img/009.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 9,
+    "marca": "Rip Curl",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido H&M",
@@ -118,7 +180,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/010.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 10,
+    "marca": "H Y M",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Egoiste",
@@ -130,7 +199,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/011.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 11,
+    "marca": "Egoiste",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Umbrale",
@@ -142,7 +218,14 @@ window.PRODUCTOS = [
     "desc": "Color café. Poco uso",
     "foto": "img/012.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 12,
+    "marca": "Umbrale",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Parka Abercrombie & Fitch",
@@ -154,7 +237,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Poco uso",
     "foto": "img/013.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 13,
+    "marca": "Abercrombie & Fitch",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Bimba Y Lola",
@@ -166,7 +256,14 @@ window.PRODUCTOS = [
     "desc": "Color negra. Poco uso",
     "foto": "img/014.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 14,
+    "marca": "Bimba Y Lola",
+    "talla": "XXS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Natalia Seguel",
@@ -178,7 +275,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Poco uso",
     "foto": "img/015.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 15,
+    "marca": "Natalia Seguel",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Parka Robert Lewis",
@@ -190,7 +294,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Poco uso",
     "foto": "img/016.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 16,
+    "marca": "Robert Lewis",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Parka The North Face",
@@ -202,7 +313,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Poco uso",
     "foto": "img/017.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 17,
+    "marca": "The North Face",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Foster Moon",
@@ -214,7 +332,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Poco uso",
     "foto": "img/018.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 18,
+    "marca": "Foster Moon",
+    "talla": "16",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Leather Shop",
@@ -226,7 +351,14 @@ window.PRODUCTOS = [
     "desc": "Color negra. Poco uso",
     "foto": "img/019.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 19,
+    "marca": "Leather Shop",
+    "talla": "S",
+    "exclusiva": true,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Parka Guess",
@@ -238,7 +370,14 @@ window.PRODUCTOS = [
     "desc": "Color negra. Poco uso",
     "foto": "img/020.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 20,
+    "marca": "Guess",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Bershka",
@@ -250,7 +389,14 @@ window.PRODUCTOS = [
     "desc": "Color café. Poco uso",
     "foto": "img/021.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 21,
+    "marca": "Bershka",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Levis",
@@ -262,7 +408,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/022.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 22,
+    "marca": "Levis",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Gian Mori",
@@ -274,7 +427,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/023.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 23,
+    "marca": "Gian Mori",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Prune",
@@ -286,7 +446,14 @@ window.PRODUCTOS = [
     "desc": "Color café. Poco uso",
     "foto": "img/024.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 24,
+    "marca": "Prune",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Blazer Ming",
@@ -298,7 +465,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/025.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 25,
+    "marca": "Ming",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Evoque",
@@ -310,7 +484,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/026.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 26,
+    "marca": "Evoque",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Opposite",
@@ -322,7 +503,14 @@ window.PRODUCTOS = [
     "desc": "Color beige. Poco uso",
     "foto": "img/027.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 27,
+    "marca": "Opposite",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Abrigo Montgomery Cuero Argentino",
@@ -334,7 +522,14 @@ window.PRODUCTOS = [
     "desc": "Color camel. Poco uso",
     "foto": "img/028.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 28,
+    "marca": "Cuero Argentino",
+    "talla": "S",
+    "exclusiva": true,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Cinturon Michael Kors",
@@ -346,7 +541,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/029.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 29,
+    "marca": "Michael Kors",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Cinturon Negro",
@@ -358,7 +560,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/030.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 30,
+    "marca": "",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Zapatillas Adidas",
@@ -370,7 +579,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Poco uso",
     "foto": "img/031.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 31,
+    "marca": "Adidas",
+    "talla": "39.5",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Zapatillas Bullpadel",
@@ -382,7 +598,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Poco uso",
     "foto": "img/032.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 32,
+    "marca": "Bullpadel",
+    "talla": "39",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chalas Grendha",
@@ -394,7 +617,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Usado",
     "foto": "img/033.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 33,
+    "marca": "Grendha",
+    "talla": "39",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Zapatillas Lacoste",
@@ -406,7 +636,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Poco uso",
     "foto": "img/034.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 34,
+    "marca": "Lacoste",
+    "talla": "39.5",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chalas Gold Forever",
@@ -418,7 +655,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Poco uso",
     "foto": "img/035.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 35,
+    "marca": "Gold Forever",
+    "talla": "38",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Botines Ugg",
@@ -430,7 +674,14 @@ window.PRODUCTOS = [
     "desc": "Color café. Poco uso",
     "foto": "img/036.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 36,
+    "marca": "Ugg",
+    "talla": "39",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Zapatillas Converse",
@@ -442,7 +693,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Nuevo",
     "foto": "img/037.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 37,
+    "marca": "Converse",
+    "talla": "38.5",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Zapatillas Tory Burch",
@@ -454,7 +712,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Poco uso",
     "foto": "img/038.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 38,
+    "marca": "Tory Burch",
+    "talla": "38",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Zapatillas Asics",
@@ -466,7 +731,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/039.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 39,
+    "marca": "Ascics",
+    "talla": "39.5",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Zapatillas Veja",
@@ -478,7 +750,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Poco uso",
     "foto": "img/040.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 40,
+    "marca": "Veja",
+    "talla": "38",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Zapatillas Nike",
@@ -490,7 +769,14 @@ window.PRODUCTOS = [
     "desc": "Color lila. Poco uso",
     "foto": "img/041.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 41,
+    "marca": "Nike",
+    "talla": "40",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Zapatillas Veja",
@@ -502,7 +788,14 @@ window.PRODUCTOS = [
     "desc": "Color dorado. Poco uso",
     "foto": "img/042.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 42,
+    "marca": "Veja",
+    "talla": "37",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Sosten Bikini Calzedonia",
@@ -514,7 +807,14 @@ window.PRODUCTOS = [
     "desc": "Color beige. Poco uso",
     "foto": "img/043.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 43,
+    "marca": "Calzedonia",
+    "talla": "ST",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Bikini Calzedonia",
@@ -526,7 +826,14 @@ window.PRODUCTOS = [
     "desc": "Color verde. Poco uso",
     "foto": "img/044.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 44,
+    "marca": "Calzedonia",
+    "talla": "ST",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Bikini Victoria Secret",
@@ -538,7 +845,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print negro. Poco uso",
     "foto": "img/045.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 45,
+    "marca": "Victoria Secret",
+    "talla": "34D/S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Bikini Hollister",
@@ -550,7 +864,14 @@ window.PRODUCTOS = [
     "desc": "Color azul. Nuevo",
     "foto": "img/046.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 46,
+    "marca": "Hollister",
+    "talla": "L/M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Traje De Baño Pat Pat",
@@ -562,7 +883,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco y verde. Como nuevo",
     "foto": "img/047.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 47,
+    "marca": "PatPat",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Bikini Hurley",
@@ -574,7 +902,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco y verde. Como nuevo",
     "foto": "img/048.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 48,
+    "marca": "Hurley",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Traje De Baño Old Navy",
@@ -586,7 +921,14 @@ window.PRODUCTOS = [
     "desc": "Color azul con verde. Como nuevo",
     "foto": "img/049.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 49,
+    "marca": "Old Navy",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Calzon Bikini Hollister",
@@ -598,7 +940,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Poco uso",
     "foto": "img/050.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 50,
+    "marca": "Hollister",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Traje De Baño Lounge",
@@ -610,7 +959,14 @@ window.PRODUCTOS = [
     "desc": "Color naranja con brillos. Como nuevo",
     "foto": "img/051.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 51,
+    "marca": "Lounge",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Sosten Bikini Flores",
@@ -622,7 +978,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Como nuevo",
     "foto": "img/052.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 52,
+    "marca": "Flores",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Sosten Bikini Flores",
@@ -634,7 +997,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Como nuevo",
     "foto": "img/053.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 53,
+    "marca": "Flores",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Bikini Ondademar",
@@ -646,7 +1016,14 @@ window.PRODUCTOS = [
     "desc": "Color celeste. Poco uso",
     "foto": "img/054.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 54,
+    "marca": "OndadeMar",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Bikini Calzedonia",
@@ -658,7 +1035,14 @@ window.PRODUCTOS = [
     "desc": "Color celeste. Como nuevo",
     "foto": "img/055.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 55,
+    "marca": "Calzedonia",
+    "talla": "ST",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Sosten Bikini",
@@ -670,7 +1054,14 @@ window.PRODUCTOS = [
     "desc": "Color rose gold. Como nuevo",
     "foto": "img/056.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 56,
+    "marca": "",
+    "talla": "ST",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Traje De Baño Patpat",
@@ -682,7 +1073,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Nuevo",
     "foto": "img/057.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 57,
+    "marca": "PatPat",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Bikini Hollister",
@@ -694,7 +1092,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Como nuevo",
     "foto": "img/058.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 58,
+    "marca": "Hollister",
+    "talla": "L",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Traje De Baño S/M",
@@ -706,7 +1111,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/059.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 59,
+    "marca": "",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Falda",
@@ -718,7 +1130,14 @@ window.PRODUCTOS = [
     "desc": "Color azul. Poco uso",
     "foto": "img/060.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 60,
+    "marca": "",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Alaniz",
@@ -730,7 +1149,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/061.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 61,
+    "marca": "Alaniz",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido",
@@ -742,7 +1168,14 @@ window.PRODUCTOS = [
     "desc": "Color azul. Como nuevo",
     "foto": "img/062.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 62,
+    "marca": "",
+    "talla": "11",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Falda",
@@ -754,7 +1187,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Como nuevo",
     "foto": "img/063.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 63,
+    "marca": "",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Abercrombie & Fitch",
@@ -766,7 +1206,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Como nuevo",
     "foto": "img/064.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 64,
+    "marca": "Abercrombie & Fitch",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera",
@@ -778,7 +1225,14 @@ window.PRODUCTOS = [
     "desc": "Color azul. Poco uso",
     "foto": "img/065.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 65,
+    "marca": "",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Wild Llama",
@@ -790,7 +1244,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Como nuevo",
     "foto": "img/066.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 66,
+    "marca": "Wild Llama",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Roxy",
@@ -802,7 +1263,14 @@ window.PRODUCTOS = [
     "desc": "Color rojo. Poco uso",
     "foto": "img/067.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 67,
+    "marca": "Roxy",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Opposite",
@@ -814,7 +1282,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Como nuevo",
     "foto": "img/068.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 68,
+    "marca": "Opposite",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido PatPat",
@@ -826,7 +1301,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Nuevo",
     "foto": "img/069.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 69,
+    "marca": "PatPat",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido PatPat",
@@ -838,7 +1320,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Nuevo",
     "foto": "img/070.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 70,
+    "marca": "PatPat",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Enterito Natalia Seguel",
@@ -850,7 +1339,14 @@ window.PRODUCTOS = [
     "desc": "Color azul. Como nuevo",
     "foto": "img/071.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 71,
+    "marca": "Natalia Seguel",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera",
@@ -862,7 +1358,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Como nuevo",
     "foto": "img/072.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 72,
+    "marca": "",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido BCBGMAXAZRIA",
@@ -874,7 +1377,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Como nuevo",
     "foto": "img/073.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 73,
+    "marca": "BCBGMAXAZRIA",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido ENFOCUS",
@@ -886,7 +1396,14 @@ window.PRODUCTOS = [
     "desc": "Color beige. Poco uso",
     "foto": "img/074.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 74,
+    "marca": "ENFOCUS",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Blusa Desigual",
@@ -898,7 +1415,14 @@ window.PRODUCTOS = [
     "desc": "Color azul. Como nuevo",
     "foto": "img/075.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 75,
+    "marca": "Desigual",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera",
@@ -910,7 +1434,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Poco uso",
     "foto": "img/076.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 76,
+    "marca": "",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Armani Exchange",
@@ -922,7 +1453,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/077.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 77,
+    "marca": "Armani Exchange",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Falda Sybilla",
@@ -934,7 +1472,14 @@ window.PRODUCTOS = [
     "desc": "Color verde. Como nuevo",
     "foto": "img/078.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 78,
+    "marca": "Sybilla",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Falda Abercrombie Kids",
@@ -946,7 +1491,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Como nuevo",
     "foto": "img/079.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 79,
+    "marca": "Abercrombie Kids",
+    "talla": "16",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido",
@@ -958,7 +1510,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Nuevo",
     "foto": "img/080.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 80,
+    "marca": "",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Miss Veil",
@@ -970,7 +1529,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Nuevo",
     "foto": "img/081.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 81,
+    "marca": "Miss Veil",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido",
@@ -982,7 +1548,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Nuevo",
     "foto": "img/082.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 82,
+    "marca": "",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Mac Douggal",
@@ -994,7 +1567,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Nuevo",
     "foto": "img/083.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 83,
+    "marca": "Mac Douggal",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Falda Scalpers",
@@ -1006,7 +1586,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Usado",
     "foto": "img/084.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 84,
+    "marca": "Scalpers",
+    "talla": "L",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Pantalones Costes",
@@ -1018,7 +1605,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Como nuevo",
     "foto": "img/085.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 85,
+    "marca": "Costes",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Blazer Express",
@@ -1030,7 +1624,14 @@ window.PRODUCTOS = [
     "desc": "Color negro y blanco. Usado",
     "foto": "img/086.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 86,
+    "marca": "Express",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Enterito Emery Rose",
@@ -1042,7 +1643,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Como nuevo",
     "foto": "img/087.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 87,
+    "marca": "Emery Rose",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta Levis",
@@ -1054,7 +1662,14 @@ window.PRODUCTOS = [
     "desc": "Color jean. Usado",
     "foto": "img/088.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 88,
+    "marca": "Levis",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Vestido Kaya Unite",
@@ -1066,7 +1681,14 @@ window.PRODUCTOS = [
     "desc": "Color azul. Poco uso",
     "foto": "img/089.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 89,
+    "marca": "Kaya Unite",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Blazer Alaniz",
@@ -1078,7 +1700,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Usado",
     "foto": "img/090.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 90,
+    "marca": "Alaniz",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Blazer Marittimo",
@@ -1090,7 +1719,14 @@ window.PRODUCTOS = [
     "desc": "Color verde. Usado",
     "foto": "img/091.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 91,
+    "marca": "Marittimo",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaqueta",
@@ -1102,7 +1738,14 @@ window.PRODUCTOS = [
     "desc": "Color jean. Como nuevo",
     "foto": "img/092.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 92,
+    "marca": "",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Enterito Abercrombie Kids",
@@ -1114,7 +1757,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Como nuevo",
     "foto": "img/093.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 93,
+    "marca": "Abercrombie Kids",
+    "talla": "16",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Express",
@@ -1126,7 +1776,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Como nuevo",
     "foto": "img/094.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 94,
+    "marca": "Express",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Be Huna",
@@ -1138,7 +1795,14 @@ window.PRODUCTOS = [
     "desc": "Color rojo. Como nuevo",
     "foto": "img/095.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 95,
+    "marca": "Be Huna",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera",
@@ -1150,7 +1814,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Como nuevo",
     "foto": "img/096.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 96,
+    "marca": "",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Massimo",
@@ -1162,7 +1833,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Como nuevo",
     "foto": "img/097.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 97,
+    "marca": "Massimo",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Zara",
@@ -1174,7 +1852,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Como nuevo",
     "foto": "img/098.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 98,
+    "marca": "Zara",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Body",
@@ -1186,7 +1871,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Como nuevo",
     "foto": "img/099.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 99,
+    "marca": "",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera American Eagle",
@@ -1198,7 +1890,14 @@ window.PRODUCTOS = [
     "desc": "Color azul. Poco uso",
     "foto": "img/100.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 100,
+    "marca": "American Eagle",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Body Americanino",
@@ -1210,7 +1909,14 @@ window.PRODUCTOS = [
     "desc": "Color rojo. Poco uso",
     "foto": "img/101.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 101,
+    "marca": "Americanino",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Tezenis",
@@ -1222,7 +1928,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Poco uso",
     "foto": "img/102.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 102,
+    "marca": "Tezenis",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Blusa Da Moda",
@@ -1234,7 +1947,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Como nuevo",
     "foto": "img/103.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 103,
+    "marca": "Da Moda",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Pink",
@@ -1246,7 +1966,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Poco uso",
     "foto": "img/104.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 104,
+    "marca": "Pink",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Body Total y Sexy",
@@ -1258,7 +1985,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Como nuevo",
     "foto": "img/105.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 105,
+    "marca": "Total Y Sexy",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Body Honey Punch",
@@ -1270,7 +2004,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/106.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 106,
+    "marca": "Honey Punch",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Taco",
@@ -1282,7 +2023,14 @@ window.PRODUCTOS = [
     "desc": "Color azul. Como nuevo",
     "foto": "img/107.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 107,
+    "marca": "Taco",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Body Express",
@@ -1294,7 +2042,14 @@ window.PRODUCTOS = [
     "desc": "Color azul. Como nuevo",
     "foto": "img/108.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 108,
+    "marca": "Express",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Body Karl Lagerfeld",
@@ -1306,7 +2061,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Nuevo",
     "foto": "img/109.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 109,
+    "marca": "Karl Lagerfeld",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Taco",
@@ -1318,7 +2080,14 @@ window.PRODUCTOS = [
     "desc": "Color amarillo. Como nuevo",
     "foto": "img/110.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 110,
+    "marca": "Taco",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Dreamr",
@@ -1330,7 +2099,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/111.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 111,
+    "marca": "Dreamr",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Falda Abercrombie Kids",
@@ -1342,7 +2118,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Como nuevo",
     "foto": "img/112.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 112,
+    "marca": "Abercrombie Kids",
+    "talla": "16",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Body Pull & Bear",
@@ -1354,7 +2137,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Como nuevo",
     "foto": "img/113.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 113,
+    "marca": "Pull & Bear",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Body Zara",
@@ -1366,7 +2156,14 @@ window.PRODUCTOS = [
     "desc": "Color verde. Como nuevo",
     "foto": "img/114.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 114,
+    "marca": "Zara",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Body Zara",
@@ -1378,7 +2175,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Como nuevo",
     "foto": "img/115.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 115,
+    "marca": "Zara",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Converse",
@@ -1390,7 +2194,14 @@ window.PRODUCTOS = [
     "desc": "Color negra. Como nuevo",
     "foto": "img/116.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 116,
+    "marca": "Converse",
+    "talla": "L",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Primark",
@@ -1402,7 +2213,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Como nuevo",
     "foto": "img/117.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 117,
+    "marca": "Primark",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera GAP",
@@ -1414,7 +2232,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Como nuevo",
     "foto": "img/118.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 118,
+    "marca": "GAP",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera GAP",
@@ -1426,7 +2251,14 @@ window.PRODUCTOS = [
     "desc": "Color verde. Como nuevo",
     "foto": "img/119.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 119,
+    "marca": "GAP",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera GAP",
@@ -1438,7 +2270,14 @@ window.PRODUCTOS = [
     "desc": "Color rosada. Como nuevo",
     "foto": "img/120.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 120,
+    "marca": "GAP",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaleco Alaniz",
@@ -1450,7 +2289,14 @@ window.PRODUCTOS = [
     "desc": "Color lila. Como nuevo",
     "foto": "img/121.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 121,
+    "marca": "Alaniz",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polar Columbia",
@@ -1462,7 +2308,14 @@ window.PRODUCTOS = [
     "desc": "Color celeste. Como nuevo",
     "foto": "img/122.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 122,
+    "marca": "Columbia",
+    "talla": "L",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaleco Express",
@@ -1474,7 +2327,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Como nuevo",
     "foto": "img/123.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 123,
+    "marca": "Express",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaleco Abercrombie & Fitch",
@@ -1486,7 +2346,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Poco uso",
     "foto": "img/124.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 124,
+    "marca": "Abercrombie & Fitch",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polerón 32 Degrees",
@@ -1498,7 +2365,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Como nuevo",
     "foto": "img/125.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 125,
+    "marca": "32 Degrees",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polerón 32 Degrees",
@@ -1510,7 +2384,14 @@ window.PRODUCTOS = [
     "desc": "Color lila. Como nuevo",
     "foto": "img/126.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 126,
+    "marca": "32 Degrees",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaleco We The Freet",
@@ -1522,7 +2403,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Usado",
     "foto": "img/127.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 127,
+    "marca": "We The Freet",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera",
@@ -1534,7 +2422,14 @@ window.PRODUCTOS = [
     "desc": "Color rosada. Como nuevo",
     "foto": "img/128.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 128,
+    "marca": "",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Rishty",
@@ -1546,7 +2441,14 @@ window.PRODUCTOS = [
     "desc": "Color blanca. Como nuevo",
     "foto": "img/129.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 129,
+    "marca": "Rishty",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Mix Couture",
@@ -1558,7 +2460,14 @@ window.PRODUCTOS = [
     "desc": "Color blanca. Como nuevo",
     "foto": "img/130.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 130,
+    "marca": "Mix Couture",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polar Wild Llama",
@@ -1570,7 +2479,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Como nuevo",
     "foto": "img/131.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 131,
+    "marca": "Wild Llama",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Pantalones Alaniz",
@@ -1582,7 +2498,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Como nuevo",
     "foto": "img/132.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 132,
+    "marca": "Alaniz",
+    "talla": "38",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Blusa Costes",
@@ -1594,7 +2517,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Como nuevo",
     "foto": "img/133.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 133,
+    "marca": "Costes",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Corset",
@@ -1606,7 +2536,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Como nuevo",
     "foto": "img/134.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 134,
+    "marca": "",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Blusa Alaniz",
@@ -1618,7 +2555,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Como nuevo",
     "foto": "img/135.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 135,
+    "marca": "Alaniz",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaleco Alaniz",
@@ -1630,7 +2574,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Poco uso",
     "foto": "img/136.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 136,
+    "marca": "Alaniz",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera That's It",
@@ -1642,7 +2593,14 @@ window.PRODUCTOS = [
     "desc": "Color verde. Como nuevo",
     "foto": "img/137.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 137,
+    "marca": "That's It",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Forever 21",
@@ -1654,7 +2612,14 @@ window.PRODUCTOS = [
     "desc": "Color burdeo. Como nuevo",
     "foto": "img/138.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 138,
+    "marca": "Forever 21",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polerón The North Face",
@@ -1666,7 +2631,14 @@ window.PRODUCTOS = [
     "desc": "Color celeste. Como nuevo",
     "foto": "img/139.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 139,
+    "marca": "The North Face",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera TopShop",
@@ -1678,7 +2650,14 @@ window.PRODUCTOS = [
     "desc": "Color negra. Como nuevo",
     "foto": "img/140.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 140,
+    "marca": "TopShop",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaleco",
@@ -1690,7 +2669,14 @@ window.PRODUCTOS = [
     "desc": "Como nuevo",
     "foto": "img/141.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 141,
+    "marca": "",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaleco Sybilla",
@@ -1702,7 +2688,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Como nuevo",
     "foto": "img/142.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 142,
+    "marca": "Sybilla",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polerón Adidas",
@@ -1714,7 +2707,14 @@ window.PRODUCTOS = [
     "desc": "Como nuevo",
     "foto": "img/143.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 143,
+    "marca": "Adidas",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Chaleco Greenfeld",
@@ -1726,7 +2726,14 @@ window.PRODUCTOS = [
     "desc": "Color café. Como nuevo",
     "foto": "img/144.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 144,
+    "marca": "Greenfeld",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Pantalones Calzedonia",
@@ -1738,7 +2745,14 @@ window.PRODUCTOS = [
     "desc": "Color blancos. Como nuevo",
     "foto": "img/145.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 145,
+    "marca": "Calzedonia",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Jeans Americanino",
@@ -1750,7 +2764,14 @@ window.PRODUCTOS = [
     "desc": "Color negros. Wide leg",
     "foto": "img/146.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 146,
+    "marca": "Americanino",
+    "talla": "38",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Jeans Sybilla",
@@ -1762,7 +2783,14 @@ window.PRODUCTOS = [
     "desc": "Color negros. Wide leg",
     "foto": "img/147.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 147,
+    "marca": "Sybilla",
+    "talla": "36",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Jeans Sybilla",
@@ -1774,7 +2802,14 @@ window.PRODUCTOS = [
     "desc": "Wide leg",
     "foto": "img/148.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 148,
+    "marca": "Sybilla",
+    "talla": "34",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Jeans Zara",
@@ -1786,7 +2821,14 @@ window.PRODUCTOS = [
     "desc": "Color negros. Como nuevo",
     "foto": "img/149.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 149,
+    "marca": "Zara",
+    "talla": "38",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Pantalones Liola",
@@ -1798,7 +2840,14 @@ window.PRODUCTOS = [
     "desc": "Color negros. Poco uso",
     "foto": "img/150.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 150,
+    "marca": "Liola",
+    "talla": "38",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera American Eagle",
@@ -1810,7 +2859,14 @@ window.PRODUCTOS = [
     "desc": "Color roja. Como nuevo",
     "foto": "img/151.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 151,
+    "marca": "American Eagle",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Only",
@@ -1822,7 +2878,14 @@ window.PRODUCTOS = [
     "desc": "Color rosada. Como nuevo",
     "foto": "img/152.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 152,
+    "marca": "Only",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera American Eagle",
@@ -1834,7 +2897,14 @@ window.PRODUCTOS = [
     "desc": "Color burdeo. Como nuevo",
     "foto": "img/153.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 153,
+    "marca": "American Eagle",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polerón Scalpers",
@@ -1846,7 +2916,14 @@ window.PRODUCTOS = [
     "desc": "Color blanco. Usado",
     "foto": "img/154.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 154,
+    "marca": "Scalpers",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polerón",
@@ -1858,7 +2935,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Como nuevo",
     "foto": "img/155.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 155,
+    "marca": "",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Body Karl Lagerfeld",
@@ -1870,7 +2954,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Nuevo",
     "foto": "img/156.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 156,
+    "marca": "Karl Lagerfeld",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Bozzolo",
@@ -1882,7 +2973,14 @@ window.PRODUCTOS = [
     "desc": "Color negra. Usado",
     "foto": "img/157.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 157,
+    "marca": "Bozzolo",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Pink",
@@ -1894,7 +2992,14 @@ window.PRODUCTOS = [
     "desc": "Color negra. Usado",
     "foto": "img/158.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 158,
+    "marca": "Pink",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Zara",
@@ -1906,7 +3011,14 @@ window.PRODUCTOS = [
     "desc": "Color negra. Nuevo",
     "foto": "img/159.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 159,
+    "marca": "Zara",
+    "talla": "M",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Old Navy",
@@ -1918,7 +3030,14 @@ window.PRODUCTOS = [
     "desc": "Color gris. Como nuevo",
     "foto": "img/160.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 160,
+    "marca": "Old Navy",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Mytop",
@@ -1930,7 +3049,14 @@ window.PRODUCTOS = [
     "desc": "Color beige. Usado",
     "foto": "img/161.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 161,
+    "marca": "Mytop",
+    "talla": "S",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera GAP",
@@ -1942,7 +3068,14 @@ window.PRODUCTOS = [
     "desc": "Color camuflada. Como nuevo",
     "foto": "img/162.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 162,
+    "marca": "GAP",
+    "talla": "XS",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Polera Piropo",
@@ -1954,7 +3087,14 @@ window.PRODUCTOS = [
     "desc": "Color rosada. Como nuevo",
     "foto": "img/163.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 163,
+    "marca": "Piropo",
+    "talla": "L",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Cinturón",
@@ -1966,7 +3106,14 @@ window.PRODUCTOS = [
     "desc": "Color café. Poco uso",
     "foto": "img/164.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 164,
+    "marca": "",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Cinturón",
@@ -1978,7 +3125,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Poco uso",
     "foto": "img/165.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 165,
+    "marca": "",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Cinturón",
@@ -1990,7 +3144,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/166.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 166,
+    "marca": "",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Cinturón Michael Kors",
@@ -2002,7 +3163,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Usado",
     "foto": "img/167.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 167,
+    "marca": "Michael Kors",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Cinturón",
@@ -2014,7 +3182,14 @@ window.PRODUCTOS = [
     "desc": "Color negro. Poco uso",
     "foto": "img/168.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 168,
+    "marca": "",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Cinturón",
@@ -2026,7 +3201,14 @@ window.PRODUCTOS = [
     "desc": "Color café. Poco uso",
     "foto": "img/169.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 169,
+    "marca": "",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Cinturón",
@@ -2038,7 +3220,14 @@ window.PRODUCTOS = [
     "desc": "Color café. Poco uso",
     "foto": "img/170.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 170,
+    "marca": "",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Cinturón Calvin Klein",
@@ -2050,7 +3239,14 @@ window.PRODUCTOS = [
     "desc": "Color café. Usado",
     "foto": "img/171.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 171,
+    "marca": "Calvin Klein",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Pañuelo",
@@ -2062,7 +3258,14 @@ window.PRODUCTOS = [
     "desc": "Color animal print. Como nuevo",
     "foto": "img/172.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 172,
+    "marca": "",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Pañuelo",
@@ -2074,7 +3277,14 @@ window.PRODUCTOS = [
     "desc": "Color rosado. Como nuevo",
     "foto": "img/173.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 173,
+    "marca": "",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
   },
   {
     "nombre": "Pañuelo",
@@ -2086,6 +3296,659 @@ window.PRODUCTOS = [
     "desc": "Color azul. Nuevo",
     "foto": "img/174.jpg",
     "estadoVenta": "disponible",
-    "linkPago": ""
+    "linkPago": "",
+    "id": 174,
+    "marca": "",
+    "talla": "",
+    "exclusiva": false,
+    "etiqueta": false,
+    "fotos": [],
+    "descLarga": ""
+  },
+  {
+    "id": 175,
+    "nombre": "Zapatillas Fila",
+    "categoria": "Zapatillas",
+    "marca": "Fila",
+    "talla": "36",
+    "precio": 10990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 36",
+    "desc": "Color negro con rosa. nuevo",
+    "descLarga": "Zapatillas Fila caña alta negras con detalles rosados: velcro superior, logo lateral y suela blanca. Estilo urbano con mucha presencia.",
+    "foto": "img/175.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 176,
+    "nombre": "Zapatillas Nike",
+    "categoria": "Zapatillas",
+    "marca": "Nike",
+    "talla": "37.5",
+    "precio": 14990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 37.5",
+    "desc": "Color lila. como nuevo",
+    "descLarga": "Zapatillas Nike Court Borough celestes con swoosh amarillo fluor e interior frambuesa. Combinación de colores única.",
+    "foto": "img/176.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 177,
+    "nombre": "Chaqueta Elv!",
+    "categoria": "Ropa niños",
+    "marca": "Elv!",
+    "talla": "12",
+    "precio": 12990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 12",
+    "desc": "Color negro. nuevo",
+    "descLarga": "Chaqueta biker Elv! negra estilo gamuza con interior y cuello de piel sintética, cierres metálicos asimétricos y correas laterales. Abrigada y con mucho estilo.",
+    "foto": "img/177.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": true
+  },
+  {
+    "id": 178,
+    "nombre": "Traje De Baño H20",
+    "categoria": "Traje de baño",
+    "marca": "H20",
+    "talla": "12",
+    "precio": 10990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 12",
+    "desc": "Color rosado. como nuevo",
+    "descLarga": "Traje de baño entero H2O rosado con mariposas moradas y doradas, un hombro con vuelo y tira delgada. Precioso puesto.",
+    "foto": "img/178.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 179,
+    "nombre": "Gorro De Lana Decathlon",
+    "categoria": "Otros",
+    "marca": "Decathlon",
+    "talla": "única",
+    "precio": 9990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla única",
+    "desc": "Color blanco. como nuevo",
+    "descLarga": "Gorro de lana Decathlon blanco crudo estilo chullo: pompón, orejeras con forro polar y trenzas con borlas. Suave y muy abrigador.",
+    "foto": "img/179.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 180,
+    "nombre": "Traje De Baño",
+    "categoria": "Traje de baño",
+    "marca": "",
+    "talla": "10",
+    "precio": 10990,
+    "precioAntes": 0,
+    "estado": "Usado",
+    "medidas": "Talla 10",
+    "desc": "Color celeste. Usado",
+    "descLarga": "Bikini dos piezas celeste con estampado tropical de flores rosadas, top halter con aplicación de crochet y bordes de calugas verde agua.",
+    "foto": "img/180.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 181,
+    "nombre": "Parte De Abajo Traje De Baño",
+    "categoria": "Traje de baño",
+    "marca": "",
+    "talla": "16",
+    "precio": 2990,
+    "precioAntes": 0,
+    "estado": "Usado",
+    "medidas": "Talla 16",
+    "desc": "Color celeste. usado",
+    "descLarga": "Calzón de bikini celeste con flores fucsia, aplicaciones de crochet y bordes de calugas. NUEVO, con etiqueta. Hace juego con el bikini celeste talla 10.",
+    "foto": "img/181.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": true
+  },
+  {
+    "id": 182,
+    "nombre": "Polera Manga Larga Abercrombie Kids",
+    "categoria": "Ropa niños",
+    "marca": "Abercrombie Kids",
+    "talla": "9/10",
+    "precio": 5990,
+    "precioAntes": 0,
+    "estado": "Usado",
+    "medidas": "Talla 9/10",
+    "desc": "Color blanco. usado",
+    "descLarga": "Polera Abercrombie Kids de tejido waffle blanco, manga larga, media botonera de botones nacarados y terminaciones onduladas. Sello de la marca en el ruedo.",
+    "foto": "img/182.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 183,
+    "nombre": "Polera Elv!",
+    "categoria": "Ropa niños",
+    "marca": "Elv!",
+    "talla": "12",
+    "precio": 10990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 12",
+    "desc": "Color azul. Nuevo",
+    "descLarga": "Blusa Elv! sin mangas con cuello camisero, rayas azul marino con mini corazones, botonera completa y amarra en el ruedo. NUEVA, con etiqueta.",
+    "foto": "img/183.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": true
+  },
+  {
+    "id": 184,
+    "nombre": "Polera Abercrombie Kids",
+    "categoria": "Ropa niños",
+    "marca": "Abercrombie Kids",
+    "talla": "9/10",
+    "precio": 9990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 9/10",
+    "desc": "Color blanco. nuevo",
+    "descLarga": "Polera blanca Abercrombie Kids con logo bordado \"Abercrombie and Fitch 92\" intervenido con flores. Clásica y combinable.",
+    "foto": "img/184.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 185,
+    "nombre": "Polera Manga Larga Abercrombie Kids",
+    "categoria": "Ropa niños",
+    "marca": "Abercrombie Kids",
+    "talla": "9/10",
+    "precio": 9990,
+    "precioAntes": 0,
+    "estado": "Usado",
+    "medidas": "Talla 9/10",
+    "desc": "Color rosada. usado",
+    "descLarga": "Polera Abercrombie Kids de tejido waffle rosado, manga larga, media botonera con botones al tono y terminaciones onduladas (lettuce hem).",
+    "foto": "img/185.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 186,
+    "nombre": "Falda De Jeans Zara",
+    "categoria": "Ropa niños",
+    "marca": "Zara",
+    "talla": "10",
+    "precio": 9990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 10",
+    "desc": "Color jeans. nuevo",
+    "descLarga": "Falda-short de jeans tableada Zara, lavado clásico, cintura con elástico posterior. Se ve como falda, comodidad de short.",
+    "foto": "img/186.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 187,
+    "nombre": "Parte De Abajo Traje De Baño",
+    "categoria": "Traje de baño",
+    "marca": "",
+    "talla": "",
+    "precio": 2990,
+    "precioAntes": 0,
+    "estado": "Usado",
+    "medidas": "",
+    "desc": "Color ojos azules. usado",
+    "descLarga": "Calzón de bikini blanco con estampado de ojos turcos azules y amarras laterales. Original y distinto.",
+    "foto": "img/187.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 188,
+    "nombre": "Polera Abercrombie Kids",
+    "categoria": "Ropa niños",
+    "marca": "Abercrombie Kids",
+    "talla": "9/10",
+    "precio": 10990,
+    "precioAntes": 0,
+    "estado": "Poco uso",
+    "medidas": "Talla 9/10",
+    "desc": "Color rosa. poco uso",
+    "descLarga": "Polera Abercrombie and Fitch rosada con logo \"Est 1892 New York NY\" en dorado rosa. Suave y combinable.",
+    "foto": "img/188.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 189,
+    "nombre": "Polerón H Y M",
+    "categoria": "Ropa niños",
+    "marca": "H Y M",
+    "talla": "9/10",
+    "precio": 9990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 9/10",
+    "desc": "Color naranjo. como nuevo",
+    "descLarga": "Polerón H&M terracota con cuello redondo tipo bebé con vuelos. Franela suave por dentro, pretina acanalada.",
+    "foto": "img/189.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 190,
+    "nombre": "Poleron Melt",
+    "categoria": "Ropa niños",
+    "marca": "Melt",
+    "talla": "12",
+    "precio": 9990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 12",
+    "desc": "Color animal print. como nuevo",
+    "descLarga": "Polerón Melt de chiporro (sherpa) con estampado animal print de leopardo, cierre central y bolsillos con cierre en contraste negro. Abrigadísimo y muy trendy.",
+    "foto": "img/190.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 191,
+    "nombre": "Falda Zara",
+    "categoria": "Ropa niños",
+    "marca": "Zara",
+    "talla": "13-14",
+    "precio": 15990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 13-14",
+    "desc": "Color cuadros beige y gris. nuevo",
+    "descLarga": "Falda-short Zara cuadrillé en tonos grises, beige y mostaza, corte cruzado con tres botones decorativos al frente. Estilo colegial muy de moda.",
+    "foto": "img/191.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 192,
+    "nombre": "Poleron Zara",
+    "categoria": "Ropa niños",
+    "marca": "Zara",
+    "talla": "9/10",
+    "precio": 10990,
+    "precioAntes": 0,
+    "estado": "Usado",
+    "medidas": "Talla 9/10",
+    "desc": "Color rosa. usado",
+    "descLarga": "Polerón Zara rosado oversize con corazón bordado al tono en el pecho y abertura en la espalda baja. Suave y abrigador.",
+    "foto": "img/192.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 193,
+    "nombre": "Polera Universal",
+    "categoria": "Ropa niños",
+    "marca": "Universal",
+    "talla": "9/10",
+    "precio": 14990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 9/10",
+    "desc": "Color gris. como nuevo",
+    "descLarga": "Polera oficial Harry Potter gris jaspeada con escudo de Gryffindor: león, escobas cruzadas y letras aterciopeladas. Para fans de Hogwarts.",
+    "foto": "img/193.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 194,
+    "nombre": "Polera Disney",
+    "categoria": "Ropa niños",
+    "marca": "Disney",
+    "talla": "9/10",
+    "precio": 14990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 9/10",
+    "desc": "Color rosada. nuevo",
+    "descLarga": "Polera Disney fucsia con Stitch y Angel abrazados y corazones rosados. Tierna y llamativa.",
+    "foto": "img/194.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 195,
+    "nombre": "Polera Con Cuello Manga Larga",
+    "categoria": "Ropa niños",
+    "marca": "",
+    "talla": "9/10",
+    "precio": 8990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 9/10",
+    "desc": "Color rosada. nuevo",
+    "descLarga": "Beatle de canalé rosado, cuello alto y calce holgado. Básico perfecto para capas de invierno.",
+    "foto": "img/195.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 196,
+    "nombre": "Polera Zara",
+    "categoria": "Ropa niños",
+    "marca": "Zara",
+    "talla": "11/12",
+    "precio": 10990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 11/12",
+    "desc": "Color blanco. un solo uso",
+    "descLarga": "Falda-short blanca con estampado \"Sunny Lagoon\": palmeras verdes y atardecer naranjo. Cintura con elástico, fresca para el verano.",
+    "foto": "img/196.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 197,
+    "nombre": "Pantalon Zara",
+    "categoria": "Ropa niños",
+    "marca": "Zara",
+    "talla": "11/12",
+    "precio": 14990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 11/12",
+    "desc": "Color beige. nuevo",
+    "descLarga": "Pantalón cargo Zara beige estilo paracaidista: bolsillos laterales con tapa, cintura y botamangas con elástico regulable. Muy de moda.",
+    "foto": "img/197.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 198,
+    "nombre": "Parte De Arriba Traje De Baño",
+    "categoria": "Traje de baño",
+    "marca": "",
+    "talla": "12",
+    "precio": 2990,
+    "precioAntes": 0,
+    "estado": "Usado",
+    "medidas": "Talla 12",
+    "desc": "Color negro con diseño. usado",
+    "descLarga": "Top de bikini con vuelo estilo flounce, estampado étnico blanco y negro con acentos coral, tiras dobles. Cubre y estiliza.",
+    "foto": "img/198.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 199,
+    "nombre": "Parte De Arriba Traje De Baño H Y M",
+    "categoria": "Traje de baño",
+    "marca": "H Y M",
+    "talla": "8/10",
+    "precio": 2990,
+    "precioAntes": 0,
+    "estado": "Poco uso",
+    "medidas": "Talla 8/10",
+    "desc": "Color plantas coloridas. poco uso",
+    "descLarga": "Top de traje de baño H&M con vuelo en el cuello, estampado botánico de flores rosadas y hojas en verde y turquesa, con chinitas y abejitas.",
+    "foto": "img/199.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 200,
+    "nombre": "Parte De Abajo Traje De Baño",
+    "categoria": "Traje de baño",
+    "marca": "",
+    "talla": "11/12",
+    "precio": 1990,
+    "precioAntes": 0,
+    "estado": "Poco uso",
+    "medidas": "Talla 11/12",
+    "desc": "Color animal print rosado. poco uso",
+    "descLarga": "Calzón de bikini con pretina fucsia lisa y estampado animal print rosado con pinceladas moradas. Lindo contraste de colores.",
+    "foto": "img/200.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 201,
+    "nombre": "Parte De Arriba Traje De Baño Urban",
+    "categoria": "Traje de baño",
+    "marca": "Urban",
+    "talla": "12",
+    "precio": 2990,
+    "precioAntes": 0,
+    "estado": "Poco uso",
+    "medidas": "Talla 12",
+    "desc": "Color rosado. poco uso",
+    "descLarga": "Top de bikini Urban un hombro con vuelo, rosado palo con puntos rosados fluor. Tira regulable con hebilla. Delicado y muy femenino.",
+    "foto": "img/201.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 202,
+    "nombre": "Falda Negra Abercrombie Kids",
+    "categoria": "Ropa niños",
+    "marca": "Abercrombie Kids",
+    "talla": "11/12",
+    "precio": 10990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 11/12",
+    "desc": "Color negro de cuero. como nuevo",
+    "descLarga": "Falda Abercrombie Kids de ecocuero negra, corte envolvente (wrap) y cintura paperbag con cinturón del mismo material. Muy estilosa.",
+    "foto": "img/202.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": true,
+    "etiqueta": false
+  },
+  {
+    "id": 203,
+    "nombre": "Parte De Arriba Traje De Baño Urban",
+    "categoria": "Traje de baño",
+    "marca": "Urban",
+    "talla": "12",
+    "precio": 2990,
+    "precioAntes": 0,
+    "estado": "Usado",
+    "medidas": "Talla 12",
+    "desc": "Color verde azul. usado",
+    "descLarga": "Top de bikini Urban estilo off-shoulder con vuelo, estampado tropical de hojas en verde, azul, fucsia y morado sobre fondo negro.",
+    "foto": "img/203.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 204,
+    "nombre": "Parte De Abajo Traje De Baño Urban",
+    "categoria": "Traje de baño",
+    "marca": "Urban",
+    "talla": "12",
+    "precio": 1990,
+    "precioAntes": 0,
+    "estado": "Usado",
+    "medidas": "Talla 12",
+    "desc": "Color morado. usado",
+    "descLarga": "Calzón de bikini Urban morado con mariposas multicolor y detalles dorados. Interior forrado.",
+    "foto": "img/204.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 205,
+    "nombre": "Polera Disney",
+    "categoria": "Ropa niños",
+    "marca": "Disney",
+    "talla": "14",
+    "precio": 12990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 14",
+    "desc": "Color monitos de disney. nuevo",
+    "descLarga": "Polera Disney 100 crema con todos los personajes clásicos: Mickey, princesas, Stitch, Simba y más, unidos por partituras musicales. De colección.",
+    "foto": "img/205.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 206,
+    "nombre": "Polera Disney",
+    "categoria": "Ropa niños",
+    "marca": "Disney",
+    "talla": "14/16",
+    "precio": 12990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 14/16",
+    "desc": "Color rosado. nuevo",
+    "descLarga": "Polera Disney rosada con cuadrícula de Minnie y Daisy en nueve poses. Sin mangas, espalda con abertura.",
+    "foto": "img/206.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 207,
+    "nombre": "Polera Btween",
+    "categoria": "Ropa niños",
+    "marca": "Btween",
+    "talla": "10",
+    "precio": 10990,
+    "precioAntes": 0,
+    "estado": "Como nuevo",
+    "medidas": "Talla 10",
+    "desc": "Color rosado. nuevo",
+    "descLarga": "Polera btween rosada de canalé con aplicación animal print y \"love love love\" en dorado. Dulce y con brillo.",
+    "foto": "img/207.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 208,
+    "nombre": "Polera Divided",
+    "categoria": "Ropa niños",
+    "marca": "Divided",
+    "talla": "S",
+    "precio": 9990,
+    "precioAntes": 0,
+    "estado": "Usado",
+    "medidas": "Talla S",
+    "desc": "Color negro con diseño. usado",
+    "descLarga": "Polera Divided negra sin mangas con estampado de diseño. Básico urbano con actitud.",
+    "foto": "img/208.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
   }
 ];
