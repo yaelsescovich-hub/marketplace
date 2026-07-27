@@ -3311,7 +3311,7 @@ window.PRODUCTOS = [
     "categoria": "Zapatillas",
     "marca": "Fila",
     "talla": "36",
-    "precio": 10990,
+    "precio": 18990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla 36",
@@ -3322,7 +3322,7 @@ window.PRODUCTOS = [
     "estadoVenta": "disponible",
     "linkPago": "",
     "exclusiva": false,
-    "etiqueta": false
+    "etiqueta": true
   },
   {
     "id": 176,
