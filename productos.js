@@ -16,7 +16,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Blusa Alaniz en verde, talla XS. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Allsaints",
@@ -35,7 +35,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Allsaints en dorado, talla S. Está como nuevo, prácticamente sin uso. AllSaints es una marca británica de estética contemporánea, difícil de encontrar en reventa en Chile. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Vestido Desigual",
@@ -54,7 +54,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Desigual en negro, talla S. Está como nuevo, prácticamente sin uso. Desigual, la marca española conocida por sus estampados y colores inconfundibles. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Vestido Guess",
@@ -73,7 +73,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Guess en blanco y negro, talla L. Está como nuevo, prácticamente sin uso. Guess, clásico americano que no pasa de moda. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Papaya",
@@ -92,7 +92,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Papaya en negro, talla M. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Vestido Calvin Klein",
@@ -111,7 +111,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Calvin Klein en negro, talla S. Está como nuevo, prácticamente sin uso. Calvin Klein, líneas limpias y calce que siempre funciona. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Vestido Desigual",
@@ -130,7 +130,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Desigual en morado y verde, talla S. Está como nuevo, prácticamente sin uso. Desigual, la marca española conocida por sus estampados y colores inconfundibles. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Chaqueta Desigual",
@@ -149,7 +149,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Desigual en negro, talla S. Está como nuevo, prácticamente sin uso. Desigual, la marca española conocida por sus estampados y colores inconfundibles. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Chaqueta Rip Curl",
@@ -168,7 +168,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Rip Curl en gris, talla S. Está como nuevo, prácticamente sin uso. Rip Curl, espíritu surf australiano. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido H&M",
@@ -187,7 +187,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido H&M en negro, talla XS. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Chaqueta Egoiste",
@@ -206,7 +206,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Egoiste en negro, talla M. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Umbrale",
@@ -225,7 +225,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Umbrale en café, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Parka Abercrombie & Fitch",
@@ -244,7 +244,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Parka Abercrombie & Fitch en rosado, talla S. Está como nuevo, prácticamente sin uso. Abercrombie & Fitch, calidad americana con calce favorecedor. Precio de oportunidad real."
   },
   {
     "nombre": "Chaqueta Bimba Y Lola",
@@ -263,7 +263,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Bimba Y Lola en negra, talla XXS. Está como nuevo, prácticamente sin uso. Bimba y Lola, diseño español con personalidad, poco visto en Chile. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Vestido Natalia Seguel",
@@ -282,7 +282,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Natalia Seguel en blanco, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Parka Robert Lewis",
@@ -301,7 +301,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Parka Robert Lewis en blanco, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Parka The North Face",
@@ -320,7 +320,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Parka The North Face en gris, talla S. Está como nuevo, prácticamente sin uso. The North Face, referencia en abrigo técnico de calidad. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Chaqueta Foster Moon",
@@ -339,7 +339,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Foster Moon en animal print, talla 16. Está como nuevo, prácticamente sin uso. Ropa de niños que se usa poco y se vende mejor: aprovecha."
   },
   {
     "nombre": "Chaqueta Leather Shop",
@@ -358,7 +358,7 @@ window.PRODUCTOS = [
     "exclusiva": true,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Leather Shop en negra, talla S. Está como nuevo, prácticamente sin uso. Cuero legítimo de The Leather Shop. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Parka Guess",
@@ -377,7 +377,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Parka Guess en negra, talla S. Está como nuevo, prácticamente sin uso. Guess, clásico americano que no pasa de moda. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Chaqueta Bershka",
@@ -396,7 +396,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Bershka en café, talla M. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Chaqueta Levis",
@@ -415,7 +415,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Levis en negro, talla M. Está como nuevo, prácticamente sin uso. Levi's, el denim original. Precio de oportunidad real."
   },
   {
     "nombre": "Chaqueta Gian Mori",
@@ -434,7 +434,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Gian Mori en negro, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Chaqueta Prune",
@@ -453,7 +453,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Prune en café, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Blazer Ming",
@@ -472,7 +472,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Blazer Ming en negro, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Chaqueta Evoque",
@@ -491,7 +491,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Evoque en negro, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Vestido Opposite",
@@ -510,7 +510,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Opposite en beige, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Abrigo Montgomery Cuero Argentino",
@@ -529,7 +529,7 @@ window.PRODUCTOS = [
     "exclusiva": true,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Abrigo Montgomery Cuero Argentino en camel, talla S. Está como nuevo, prácticamente sin uso. Cuero argentino legítimo, de los que duran décadas. Precio de oportunidad real."
   },
   {
     "nombre": "Cinturon Michael Kors",
@@ -548,7 +548,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Cinturon Michael Kors en negro. Está como nuevo, prácticamente sin uso. Michael Kors, lujo accesible americano; sus accesorios mantienen valor. Precio de oportunidad real."
   },
   {
     "nombre": "Cinturon Negro",
@@ -567,7 +567,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Cinturon Negro en negro. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Zapatillas Adidas",
@@ -586,7 +586,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Zapatillas Adidas en gris, talla 39.5. Está como nuevo, prácticamente sin uso. Adidas, comodidad y estilo probados. A este precio, vuelan."
   },
   {
     "nombre": "Zapatillas Bullpadel",
@@ -605,7 +605,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Zapatillas Bullpadel en blanco, talla 39. Está como nuevo, prácticamente sin uso. Revisa la talla y escríbenos ante cualquier duda de calce."
   },
   {
     "nombre": "Chalas Grendha",
@@ -624,7 +624,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chalas Grendha en rosado, talla 39. Con uso, precio acorde. A este precio, vuelan."
   },
   {
     "nombre": "Zapatillas Lacoste",
@@ -643,7 +643,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Zapatillas Lacoste en blanco, talla 39.5. Con uso, precio acorde. Lacoste, elegancia deportiva francesa de siempre. Buen par a precio de reventa honesto."
   },
   {
     "nombre": "Chalas Gold Forever",
@@ -662,7 +662,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chalas Gold Forever en animal print, talla 38. Está como nuevo, prácticamente sin uso. A este precio, vuelan."
   },
   {
     "nombre": "Botines Ugg",
@@ -681,7 +681,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Botines Ugg en café, talla 39. Está como nuevo, prácticamente sin uso. UGG, los originales australianos; abrigo y comodidad reconocidos. Revisa la talla y escríbenos ante cualquier duda de calce."
   },
   {
     "nombre": "Zapatillas Converse",
@@ -700,7 +700,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Zapatillas Converse en negro, talla 38.5. Está como nuevo, prácticamente sin uso. Converse, el clásico que combina con todo. Revisa la talla y escríbenos ante cualquier duda de calce."
   },
   {
     "nombre": "Zapatillas Tory Burch",
@@ -719,7 +719,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Zapatillas Tory Burch en blanco, talla 38. Está como nuevo, prácticamente sin uso. Tory Burch, marca premium americana muy buscada en reventa. Buen par a precio de reventa honesto."
   },
   {
     "nombre": "Zapatillas Asics",
@@ -738,7 +738,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Zapatillas Asics en negro, talla 39.5. En muy buen estado, con poco uso. ASICS, ingeniería japonesa para correr. A este precio, vuelan."
   },
   {
     "nombre": "Zapatillas Veja",
@@ -757,7 +757,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Zapatillas Veja en blanco, talla 38. En muy buen estado, con poco uso. Veja, la zapatilla francesa sustentable que se volvió ícono; difícil de conseguir en Chile. A este precio, vuelan."
   },
   {
     "nombre": "Zapatillas Nike",
@@ -776,7 +776,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Zapatillas Nike en lila, talla 40. En muy buen estado, con poco uso. Nike, calidad de sobra conocida. A este precio, vuelan."
   },
   {
     "nombre": "Zapatillas Veja",
@@ -795,7 +795,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Zapatillas Veja en dorado, talla 37. En muy buen estado, con poco uso. Veja, la zapatilla francesa sustentable que se volvió ícono; difícil de conseguir en Chile. Revisa la talla y escríbenos ante cualquier duda de calce."
   },
   {
     "nombre": "Sosten Bikini Calzedonia",
@@ -814,7 +814,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Sosten Bikini Calzedonia en beige, talla ST. Está como nuevo, prácticamente sin uso. Calzedonia, marca italiana de baño y medias. Perfecto para dejar listo el verano con anticipación."
   },
   {
     "nombre": "Bikini Calzedonia",
@@ -833,7 +833,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Bikini Calzedonia en verde, talla ST. Está como nuevo, prácticamente sin uso. Calzedonia, marca italiana de baño y medias. A precio de liquidación de temporada."
   },
   {
     "nombre": "Bikini Victoria Secret",
@@ -852,7 +852,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Bikini Victoria Secret en animal print negro, talla 34D/S. Está como nuevo, prácticamente sin uso. Victoria's Secret, línea de baño americana. Perfecto para dejar listo el verano con anticipación."
   },
   {
     "nombre": "Bikini Hollister",
@@ -871,7 +871,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": true,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Bikini Hollister en azul, talla L/M. Nuevo, sin uso. Hollister, estilo californiano juvenil. Perfecto para dejar listo el verano con anticipación."
   },
   {
     "nombre": "Traje De Baño Pat Pat",
@@ -890,7 +890,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Traje De Baño Pat Pat en blanco y verde, talla M. Está como nuevo, prácticamente sin uso. A precio de liquidación de temporada."
   },
   {
     "nombre": "Bikini Hurley",
@@ -909,7 +909,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Bikini Hurley en blanco y verde, talla M. Está como nuevo, prácticamente sin uso. Perfecto para dejar listo el verano con anticipación."
   },
   {
     "nombre": "Traje De Baño Old Navy",
@@ -928,7 +928,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Traje De Baño Old Navy en azul con verde, talla XS. Está como nuevo, prácticamente sin uso. A precio de liquidación de temporada."
   },
   {
     "nombre": "Calzon Bikini Hollister",
@@ -947,7 +947,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": true,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Calzon Bikini Hollister en rosado, talla M. Nuevo, sin uso. Hollister, estilo californiano juvenil. A precio de liquidación de temporada."
   },
   {
     "nombre": "Traje De Baño Lounge",
@@ -966,7 +966,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Traje De Baño Lounge en naranja con brillos, talla XS. Está como nuevo, prácticamente sin uso. Aprovecha antes de la temporada de piscina."
   },
   {
     "nombre": "Sosten Bikini Flores",
@@ -985,7 +985,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Sosten Bikini Flores en rosado, talla M. Está como nuevo, prácticamente sin uso. A precio de liquidación de temporada."
   },
   {
     "nombre": "Sosten Bikini Flores",
@@ -1004,7 +1004,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Sosten Bikini Flores en rosado, talla S. Está como nuevo, prácticamente sin uso. Perfecto para dejar listo el verano con anticipación."
   },
   {
     "nombre": "Bikini Ondademar",
@@ -1023,7 +1023,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Bikini Ondademar en celeste, talla S. Está como nuevo, prácticamente sin uso. OndadeMar, trajes de baño colombianos premium. Aprovecha antes de la temporada de piscina."
   },
   {
     "nombre": "Bikini Calzedonia",
@@ -1042,7 +1042,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Bikini Calzedonia en celeste, talla ST. Está como nuevo, prácticamente sin uso. Calzedonia, marca italiana de baño y medias. A precio de liquidación de temporada."
   },
   {
     "nombre": "Sosten Bikini",
@@ -1061,7 +1061,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Sosten Bikini en rose gold, talla ST. Está como nuevo, prácticamente sin uso. Aprovecha antes de la temporada de piscina."
   },
   {
     "nombre": "Traje De Baño Patpat",
@@ -1080,7 +1080,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Traje De Baño Patpat en negro, talla M. Está como nuevo, prácticamente sin uso. Perfecto para dejar listo el verano con anticipación."
   },
   {
     "nombre": "Bikini Hollister",
@@ -1099,7 +1099,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": true,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Bikini Hollister en rosado, talla L. Nuevo, sin uso. Hollister, estilo californiano juvenil. A precio de liquidación de temporada."
   },
   {
     "nombre": "Traje De Baño S/M",
@@ -1118,7 +1118,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Traje De Baño S/M en negro, talla M. Está como nuevo, prácticamente sin uso. Perfecto para dejar listo el verano con anticipación."
   },
   {
     "nombre": "Falda",
@@ -1137,7 +1137,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Falda en azul, talla M. En muy buen estado, con poco uso. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Alaniz",
@@ -1156,7 +1156,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Alaniz en negro, talla XS. En muy buen estado, con poco uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Vestido",
@@ -1175,7 +1175,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido en azul, talla 11. Está como nuevo, prácticamente sin uso. Se va rápido en esta talla."
   },
   {
     "nombre": "Falda",
@@ -1194,7 +1194,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Falda en animal print, talla M. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Abercrombie & Fitch",
@@ -1213,7 +1213,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Abercrombie & Fitch en blanco, talla XS. Está como nuevo, prácticamente sin uso. Abercrombie & Fitch, calidad americana con calce favorecedor. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polera",
@@ -1232,7 +1232,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera en azul, talla S. En muy buen estado, con poco uso. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Wild Llama",
@@ -1251,7 +1251,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Wild Llama en rosado, talla XS. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Vestido Roxy",
@@ -1270,7 +1270,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Roxy en rojo, talla M. En muy buen estado, con poco uso. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Opposite",
@@ -1289,7 +1289,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Opposite en negro, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Vestido PatPat",
@@ -1308,7 +1308,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido PatPat en negro, talla M. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Vestido PatPat",
@@ -1327,7 +1327,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido PatPat en negro, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Enterito Natalia Seguel",
@@ -1346,7 +1346,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Enterito Natalia Seguel en azul, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polera",
@@ -1365,7 +1365,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera en rosado, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Vestido BCBGMAXAZRIA",
@@ -1384,7 +1384,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido BCBGMAXAZRIA en negro, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Vestido ENFOCUS",
@@ -1403,7 +1403,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido ENFOCUS en beige, talla S. En muy buen estado, con poco uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Blusa Desigual",
@@ -1422,7 +1422,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Blusa Desigual en azul, talla XS. Está como nuevo, prácticamente sin uso. Desigual, la marca española conocida por sus estampados y colores inconfundibles. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polera",
@@ -1441,7 +1441,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera en animal print, talla S. En muy buen estado, con poco uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Vestido Armani Exchange",
@@ -1460,7 +1460,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Armani Exchange en negro, talla S. En muy buen estado, con poco uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Falda Sybilla",
@@ -1479,7 +1479,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Falda Sybilla en verde, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Falda Abercrombie Kids",
@@ -1498,7 +1498,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Falda Abercrombie Kids en blanco, talla 16. Está como nuevo, prácticamente sin uso. Se va rápido en esta talla."
   },
   {
     "nombre": "Vestido",
@@ -1517,7 +1517,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": true,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido en blanco, talla S. Nuevo, sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Vestido Miss Veil",
@@ -1536,7 +1536,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": true,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Miss Veil en blanco, talla S. Nuevo, sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Vestido",
@@ -1555,7 +1555,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": true,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido en blanco, talla S. Nuevo, sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Vestido Mac Douggal",
@@ -1574,7 +1574,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": true,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Mac Douggal en gris, talla S. Nuevo, sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Falda Scalpers",
@@ -1593,7 +1593,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Falda Scalpers en blanco, talla L. Con uso, precio acorde. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Pantalones Costes",
@@ -1612,7 +1612,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Pantalones Costes en animal print, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Blazer Express",
@@ -1631,7 +1631,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Blazer Express en negro y blanco, talla XS. Con uso, precio acorde. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Enterito Emery Rose",
@@ -1650,7 +1650,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Enterito Emery Rose en rosado, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Chaqueta Levis",
@@ -1669,7 +1669,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta Levis en jean, talla M. Está como nuevo, prácticamente sin uso. Levi's, el denim original. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Kaya Unite",
@@ -1688,7 +1688,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Vestido Kaya Unite en azul, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Blazer Alaniz",
@@ -1707,7 +1707,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Blazer Alaniz en gris, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Blazer Marittimo",
@@ -1726,7 +1726,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Blazer Marittimo en verde, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Chaqueta",
@@ -1745,7 +1745,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaqueta en jean, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Enterito Abercrombie Kids",
@@ -1764,7 +1764,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Enterito Abercrombie Kids en blanco, talla 16. Está como nuevo, prácticamente sin uso. Ropa de niños que se usa poco y se vende mejor: aprovecha."
   },
   {
     "nombre": "Polera Express",
@@ -1783,7 +1783,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Express en gris, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Polera Be Huna",
@@ -1802,7 +1802,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Be Huna en rojo, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Polera",
@@ -1821,7 +1821,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera en blanco, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polera Massimo",
@@ -1840,7 +1840,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Massimo en negro, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polera Zara",
@@ -1859,7 +1859,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": true,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Zara en blanco, talla M. Nuevo, sin uso. Zara, siempre vigente. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Body",
@@ -1878,7 +1878,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Body en animal print, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polera American Eagle",
@@ -1897,7 +1897,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera American Eagle en azul, talla XS. En muy buen estado, con poco uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Body Americanino",
@@ -1916,7 +1916,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Body Americanino en rojo, talla S. En muy buen estado, con poco uso. Precio de oportunidad real."
   },
   {
     "nombre": "Polera Tezenis",
@@ -1935,7 +1935,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Tezenis en rosado, talla S. En muy buen estado, con poco uso. Precio de oportunidad real."
   },
   {
     "nombre": "Blusa Da Moda",
@@ -1954,7 +1954,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Blusa Da Moda en animal print, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Polera Pink",
@@ -1973,7 +1973,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Pink en animal print, talla XS. En muy buen estado, con poco uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Body Total y Sexy",
@@ -1992,7 +1992,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Body Total y Sexy en negro, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Body Honey Punch",
@@ -2011,7 +2011,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Body Honey Punch en negro, talla M. En muy buen estado, con poco uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polera Taco",
@@ -2030,7 +2030,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Taco en azul, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Body Express",
@@ -2049,7 +2049,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Body Express en azul, talla XS. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Body Karl Lagerfeld",
@@ -2068,7 +2068,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Body Karl Lagerfeld en blanco, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polera Taco",
@@ -2087,7 +2087,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Taco en amarillo, talla M. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polera Dreamr",
@@ -2106,7 +2106,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Dreamr en negro, talla M. En muy buen estado, con poco uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Falda Abercrombie Kids",
@@ -2125,7 +2125,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Falda Abercrombie Kids en negro, talla 16. Está como nuevo, prácticamente sin uso. Ideal para renovar el clóset sin pagar precio de tienda."
   },
   {
     "nombre": "Body Pull & Bear",
@@ -2144,7 +2144,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Body Pull & Bear en gris, talla M. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Body Zara",
@@ -2163,7 +2163,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Body Zara en verde, talla S. Con uso, precio acorde. Zara, siempre vigente. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Body Zara",
@@ -2182,7 +2182,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Body Zara en negro, talla S. Está como nuevo, prácticamente sin uso. Zara, siempre vigente. Precio de oportunidad real."
   },
   {
     "nombre": "Polera Converse",
@@ -2201,7 +2201,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Converse en negra, talla L. Está como nuevo, prácticamente sin uso. Converse, el clásico que combina con todo. Precio de oportunidad real."
   },
   {
     "nombre": "Polera Primark",
@@ -2220,7 +2220,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Primark en gris, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polera GAP",
@@ -2239,7 +2239,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera GAP en gris, talla XS. Está como nuevo, prácticamente sin uso. GAP, básicos americanos de buena tela. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polera GAP",
@@ -2258,7 +2258,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera GAP en verde, talla XS. Está como nuevo, prácticamente sin uso. GAP, básicos americanos de buena tela. Precio de oportunidad real."
   },
   {
     "nombre": "Polera GAP",
@@ -2277,7 +2277,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera GAP en rosada, talla XS. Está como nuevo, prácticamente sin uso. GAP, básicos americanos de buena tela. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Chaleco Alaniz",
@@ -2296,7 +2296,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaleco Alaniz en lila, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polar Columbia",
@@ -2315,7 +2315,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polar Columbia en celeste, talla L. Está como nuevo, prácticamente sin uso. Columbia, outdoor confiable. Precio de oportunidad real."
   },
   {
     "nombre": "Chaleco Express",
@@ -2334,7 +2334,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaleco Express en animal print, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Chaleco Abercrombie & Fitch",
@@ -2353,7 +2353,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaleco Abercrombie & Fitch en gris, talla XS. En muy buen estado, con poco uso. Abercrombie & Fitch, calidad americana con calce favorecedor. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polerón 32 Degrees",
@@ -2372,7 +2372,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polerón 32 Degrees en gris, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polerón 32 Degrees",
@@ -2391,7 +2391,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polerón 32 Degrees en lila, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Chaleco We The Freet",
@@ -2410,7 +2410,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaleco We The Freet en blanco, talla S. Con uso, precio acorde. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polera",
@@ -2429,7 +2429,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera en rosada, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Polera Rishty",
@@ -2448,7 +2448,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Rishty en blanca, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Polera Mix Couture",
@@ -2467,7 +2467,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Mix Couture en blanca, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Polar Wild Llama",
@@ -2486,7 +2486,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polar Wild Llama en gris, talla XS. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Pantalones Alaniz",
@@ -2505,7 +2505,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Pantalones Alaniz en animal print, talla 38. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Blusa Costes",
@@ -2524,7 +2524,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Blusa Costes en animal print, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Corset",
@@ -2543,7 +2543,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Corset en rosado, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Blusa Alaniz",
@@ -2562,7 +2562,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Blusa Alaniz en animal print, talla XS. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Chaleco Alaniz",
@@ -2581,7 +2581,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaleco Alaniz en animal print, talla XS. En muy buen estado, con poco uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polera That's It",
@@ -2600,7 +2600,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera That's It en verde, talla M. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polera Forever 21",
@@ -2619,7 +2619,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Forever 21 en burdeo, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polerón The North Face",
@@ -2638,7 +2638,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polerón The North Face en celeste, talla S. Está como nuevo, prácticamente sin uso. The North Face, referencia en abrigo técnico de calidad. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polera TopShop",
@@ -2657,7 +2657,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera TopShop en negra, talla S. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Chaleco",
@@ -2676,7 +2676,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaleco, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Chaleco Sybilla",
@@ -2695,7 +2695,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaleco Sybilla en blanco, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polerón Adidas",
@@ -2714,7 +2714,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polerón Adidas, talla XS. Está como nuevo, prácticamente sin uso. Adidas, comodidad y estilo probados. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Chaleco Greenfeld",
@@ -2733,7 +2733,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Chaleco Greenfeld en café, talla S. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Pantalones Calzedonia",
@@ -2752,7 +2752,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Pantalones Calzedonia en blancos, talla S. Está como nuevo, prácticamente sin uso. Calzedonia, marca italiana de baño y medias. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Jeans Americanino",
@@ -2771,7 +2771,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Jeans Americanino en negros, talla 38. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Jeans Sybilla",
@@ -2790,7 +2790,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Jeans Sybilla en negros, talla 36. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Jeans Sybilla",
@@ -2809,7 +2809,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Jeans Sybilla, talla 34. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Jeans Zara",
@@ -2828,7 +2828,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Jeans Zara en negros, talla 38. Está como nuevo, prácticamente sin uso. Zara, siempre vigente. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Pantalones Liola",
@@ -2847,7 +2847,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Pantalones Liola en negros, talla 38. En muy buen estado, con poco uso. Precio de oportunidad real."
   },
   {
     "nombre": "Polera American Eagle",
@@ -2866,7 +2866,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera American Eagle en roja, talla XS. Está como nuevo, prácticamente sin uso. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polera Only",
@@ -2885,7 +2885,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Only en rosada, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polera American Eagle",
@@ -2904,7 +2904,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera American Eagle en burdeo, talla S. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polerón Scalpers",
@@ -2923,7 +2923,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polerón Scalpers en blanco, talla XS. Con uso, precio acorde. Precio de oportunidad real."
   },
   {
     "nombre": "Polerón",
@@ -2942,7 +2942,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polerón en negro, talla M. Está como nuevo, prácticamente sin uso. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Body Karl Lagerfeld",
@@ -2961,7 +2961,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Body Karl Lagerfeld en negro, talla XS. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Polera Bozzolo",
@@ -2980,7 +2980,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Bozzolo en negra, talla S. Con uso, precio acorde. De esas prendas que se agotan rápido en la vitrina."
   },
   {
     "nombre": "Polera Pink",
@@ -2999,7 +2999,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Pink en negra, talla XS. Con uso, precio acorde. Precio de oportunidad real."
   },
   {
     "nombre": "Polera Zara",
@@ -3018,7 +3018,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Zara en negra, talla M. Está como nuevo, prácticamente sin uso. Zara, siempre vigente. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polera Old Navy",
@@ -3037,7 +3037,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Old Navy en gris, talla XS. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Polera Mytop",
@@ -3056,7 +3056,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Mytop en beige, talla S. Con uso, precio acorde. Precio de oportunidad real."
   },
   {
     "nombre": "Polera GAP",
@@ -3075,7 +3075,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera GAP en camuflada, talla XS. Está como nuevo, prácticamente sin uso. GAP, básicos americanos de buena tela. Una buena pieza para el clóset a fracción del precio de tienda."
   },
   {
     "nombre": "Polera Piropo",
@@ -3094,7 +3094,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Polera Piropo en rosada, talla L. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Cinturón",
@@ -3113,7 +3113,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Cinturón en café. En muy buen estado, con poco uso. De esos básicos que siempre sirven."
   },
   {
     "nombre": "Cinturón",
@@ -3132,7 +3132,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Cinturón en animal print. En muy buen estado, con poco uso. Accesorio útil, precio conveniente."
   },
   {
     "nombre": "Cinturón",
@@ -3151,7 +3151,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Cinturón en negro. En muy buen estado, con poco uso. De esos básicos que siempre sirven."
   },
   {
     "nombre": "Cinturón Michael Kors",
@@ -3170,7 +3170,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Cinturón Michael Kors en negro. Con uso, precio acorde. Michael Kors, lujo accesible americano; sus accesorios mantienen valor. Accesorio útil, precio conveniente."
   },
   {
     "nombre": "Cinturón",
@@ -3189,7 +3189,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Cinturón en negro. En muy buen estado, con poco uso. Un detalle que eleva cualquier tenida."
   },
   {
     "nombre": "Cinturón",
@@ -3208,7 +3208,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Cinturón en café. En muy buen estado, con poco uso. Accesorio útil, precio conveniente."
   },
   {
     "nombre": "Cinturón",
@@ -3227,7 +3227,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Cinturón en café. En muy buen estado, con poco uso. Accesorio útil, precio conveniente."
   },
   {
     "nombre": "Cinturón Calvin Klein",
@@ -3246,7 +3246,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Cinturón Calvin Klein en café. Con uso, precio acorde. Calvin Klein, líneas limpias y calce que siempre funciona. Un detalle que eleva cualquier tenida."
   },
   {
     "nombre": "Pañuelo",
@@ -3265,7 +3265,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Pañuelo en animal print. Está como nuevo, prácticamente sin uso. Accesorio útil, precio conveniente."
   },
   {
     "nombre": "Pañuelo",
@@ -3284,7 +3284,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Pañuelo en rosado. Está como nuevo, prácticamente sin uso. Un detalle que eleva cualquier tenida."
   },
   {
     "nombre": "Pañuelo",
@@ -3303,7 +3303,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": ""
+    "descLarga": "Pañuelo en azul. Está como nuevo, prácticamente sin uso. De esos básicos que siempre sirven."
   },
   {
     "id": 175,
