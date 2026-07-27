@@ -32,8 +32,8 @@ window.PRODUCTOS = [
     "id": 2,
     "marca": "Allsaints",
     "talla": "S",
-    "exclusiva": true,
-    "etiqueta": true,
+    "exclusiva": false,
+    "etiqueta": false,
     "fotos": [],
     "descLarga": ""
   },
@@ -51,7 +51,7 @@ window.PRODUCTOS = [
     "id": 3,
     "marca": "Desigual",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -70,7 +70,7 @@ window.PRODUCTOS = [
     "id": 4,
     "marca": "Guess",
     "talla": "L",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -108,7 +108,7 @@ window.PRODUCTOS = [
     "id": 6,
     "marca": "Calvin Klein",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -127,7 +127,7 @@ window.PRODUCTOS = [
     "id": 7,
     "marca": "Desigual",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -146,7 +146,7 @@ window.PRODUCTOS = [
     "id": 8,
     "marca": "Desigual",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -241,7 +241,7 @@ window.PRODUCTOS = [
     "id": 13,
     "marca": "Abercrombie & Fitch",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -260,7 +260,7 @@ window.PRODUCTOS = [
     "id": 14,
     "marca": "Bimba Y Lola",
     "talla": "XXS",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -317,7 +317,7 @@ window.PRODUCTOS = [
     "id": 17,
     "marca": "The North Face",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -363,7 +363,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Parka Guess",
     "categoria": "Ropa adulto",
-    "precio": 39990,
+    "precio": 59990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla S",
@@ -374,7 +374,7 @@ window.PRODUCTOS = [
     "id": 20,
     "marca": "Guess",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -393,7 +393,7 @@ window.PRODUCTOS = [
     "id": 21,
     "marca": "Bershka",
     "talla": "M",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -412,7 +412,7 @@ window.PRODUCTOS = [
     "id": 22,
     "marca": "Levis",
     "talla": "M",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -450,7 +450,7 @@ window.PRODUCTOS = [
     "id": 24,
     "marca": "Prune",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -458,7 +458,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Blazer Ming",
     "categoria": "Ropa adulto",
-    "precio": 29990,
+    "precio": 39990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla S",
@@ -545,7 +545,7 @@ window.PRODUCTOS = [
     "id": 29,
     "marca": "Michael Kors",
     "talla": "",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -564,7 +564,7 @@ window.PRODUCTOS = [
     "id": 30,
     "marca": "",
     "talla": "",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -640,7 +640,7 @@ window.PRODUCTOS = [
     "id": 34,
     "marca": "Lacoste",
     "talla": "39.5",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -678,7 +678,7 @@ window.PRODUCTOS = [
     "id": 36,
     "marca": "Ugg",
     "talla": "39",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -697,7 +697,7 @@ window.PRODUCTOS = [
     "id": 37,
     "marca": "Converse",
     "talla": "38.5",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -716,7 +716,7 @@ window.PRODUCTOS = [
     "id": 38,
     "marca": "Tory Burch",
     "talla": "38",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -754,7 +754,7 @@ window.PRODUCTOS = [
     "id": 40,
     "marca": "Veja",
     "talla": "38",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -792,7 +792,7 @@ window.PRODUCTOS = [
     "id": 42,
     "marca": "Veja",
     "talla": "37",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -859,7 +859,7 @@ window.PRODUCTOS = [
     "categoria": "Traje de baño",
     "precio": 19990,
     "precioAntes": 0,
-    "estado": "Como nuevo",
+    "estado": "Nuevo",
     "medidas": "Talla L/M",
     "desc": "Color azul. Nuevo",
     "foto": "img/046.jpg",
@@ -869,7 +869,7 @@ window.PRODUCTOS = [
     "marca": "Hollister",
     "talla": "L/M",
     "exclusiva": false,
-    "etiqueta": false,
+    "etiqueta": true,
     "fotos": [],
     "descLarga": ""
   },
@@ -935,7 +935,7 @@ window.PRODUCTOS = [
     "categoria": "Traje de baño",
     "precio": 11990,
     "precioAntes": 0,
-    "estado": "Como nuevo",
+    "estado": "Nuevo",
     "medidas": "Talla M",
     "desc": "Color rosado. Poco uso",
     "foto": "img/050.jpg",
@@ -945,7 +945,7 @@ window.PRODUCTOS = [
     "marca": "Hollister",
     "talla": "M",
     "exclusiva": false,
-    "etiqueta": false,
+    "etiqueta": true,
     "fotos": [],
     "descLarga": ""
   },
@@ -954,7 +954,7 @@ window.PRODUCTOS = [
     "categoria": "Traje de baño",
     "precio": 14990,
     "precioAntes": 0,
-    "estado": "Nuevo",
+    "estado": "Como nuevo",
     "medidas": "Talla XS",
     "desc": "Color naranja con brillos. Como nuevo",
     "foto": "img/051.jpg",
@@ -964,7 +964,7 @@ window.PRODUCTOS = [
     "marca": "Lounge",
     "talla": "XS",
     "exclusiva": false,
-    "etiqueta": true,
+    "etiqueta": false,
     "fotos": [],
     "descLarga": ""
   },
@@ -983,7 +983,7 @@ window.PRODUCTOS = [
     "marca": "Flores",
     "talla": "M",
     "exclusiva": false,
-    "etiqueta": true,
+    "etiqueta": false,
     "fotos": [],
     "descLarga": ""
   },
@@ -1002,7 +1002,7 @@ window.PRODUCTOS = [
     "marca": "Flores",
     "talla": "S",
     "exclusiva": false,
-    "etiqueta": true,
+    "etiqueta": false,
     "fotos": [],
     "descLarga": ""
   },
@@ -1087,7 +1087,7 @@ window.PRODUCTOS = [
     "categoria": "Traje de baño",
     "precio": 19990,
     "precioAntes": 0,
-    "estado": "Como nuevo",
+    "estado": "Nuevo",
     "medidas": "Talla L",
     "desc": "Color rosado. Como nuevo",
     "foto": "img/058.jpg",
@@ -1097,7 +1097,7 @@ window.PRODUCTOS = [
     "marca": "Hollister",
     "talla": "L",
     "exclusiva": false,
-    "etiqueta": false,
+    "etiqueta": true,
     "fotos": [],
     "descLarga": ""
   },
@@ -1142,7 +1142,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Vestido Alaniz",
     "categoria": "Ropa adulto",
-    "precio": 29990,
+    "precio": 19990,
     "precioAntes": 0,
     "estado": "Muy bueno",
     "medidas": "Talla XS",
@@ -1161,9 +1161,9 @@ window.PRODUCTOS = [
   {
     "nombre": "Vestido",
     "categoria": "Ropa niños",
-    "precio": 15990,
+    "precio": 11990,
     "precioAntes": 0,
-    "estado": "Nuevo",
+    "estado": "Como nuevo",
     "medidas": "Talla 11",
     "desc": "Color azul. Como nuevo",
     "foto": "img/062.jpg",
@@ -1173,7 +1173,7 @@ window.PRODUCTOS = [
     "marca": "",
     "talla": "11",
     "exclusiva": false,
-    "etiqueta": true,
+    "etiqueta": false,
     "fotos": [],
     "descLarga": ""
   },
@@ -1199,7 +1199,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Vestido Abercrombie & Fitch",
     "categoria": "Ropa adulto",
-    "precio": 31990,
+    "precio": 19990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla XS",
@@ -1210,7 +1210,7 @@ window.PRODUCTOS = [
     "id": 64,
     "marca": "Abercrombie & Fitch",
     "talla": "XS",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -1256,7 +1256,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Vestido Roxy",
     "categoria": "Ropa adulto",
-    "precio": 14990,
+    "precio": 9990,
     "precioAntes": 0,
     "estado": "Muy bueno",
     "medidas": "Talla M",
@@ -1332,7 +1332,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Enterito Natalia Seguel",
     "categoria": "Ropa adulto",
-    "precio": 34990,
+    "precio": 24990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla S",
@@ -1381,7 +1381,7 @@ window.PRODUCTOS = [
     "id": 73,
     "marca": "BCBGMAXAZRIA",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -1419,7 +1419,7 @@ window.PRODUCTOS = [
     "id": 75,
     "marca": "Desigual",
     "talla": "XS",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -1457,7 +1457,7 @@ window.PRODUCTOS = [
     "id": 77,
     "marca": "Armani Exchange",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -1495,7 +1495,7 @@ window.PRODUCTOS = [
     "id": 79,
     "marca": "Abercrombie Kids",
     "talla": "16",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -1571,7 +1571,7 @@ window.PRODUCTOS = [
     "id": 83,
     "marca": "Mac Douggal",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": true,
     "fotos": [],
     "descLarga": ""
@@ -1590,7 +1590,7 @@ window.PRODUCTOS = [
     "id": 84,
     "marca": "Scalpers",
     "talla": "L",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -1731,7 +1731,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Chaqueta",
     "categoria": "Ropa adulto",
-    "precio": 28990,
+    "precio": 18990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla S",
@@ -1750,7 +1750,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Enterito Abercrombie Kids",
     "categoria": "Ropa niños",
-    "precio": 19990,
+    "precio": 21990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla 16",
@@ -1761,7 +1761,7 @@ window.PRODUCTOS = [
     "id": 93,
     "marca": "Abercrombie Kids",
     "talla": "16",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -1978,7 +1978,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Body Total y Sexy",
     "categoria": "Ropa adulto",
-    "precio": 9990,
+    "precio": 7990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla S",
@@ -1997,7 +1997,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Body Honey Punch",
     "categoria": "Ropa adulto",
-    "precio": 12990,
+    "precio": 6990,
     "precioAntes": 0,
     "estado": "Muy bueno",
     "medidas": "Talla M",
@@ -2035,7 +2035,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Body Express",
     "categoria": "Ropa adulto",
-    "precio": 17990,
+    "precio": 7990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla XS",
@@ -2046,7 +2046,7 @@ window.PRODUCTOS = [
     "id": 108,
     "marca": "Express",
     "talla": "XS",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -2065,8 +2065,8 @@ window.PRODUCTOS = [
     "id": 109,
     "marca": "Karl Lagerfeld",
     "talla": "S",
-    "exclusiva": true,
-    "etiqueta": true,
+    "exclusiva": false,
+    "etiqueta": false,
     "fotos": [],
     "descLarga": ""
   },
@@ -2168,7 +2168,7 @@ window.PRODUCTOS = [
   {
     "nombre": "Body Zara",
     "categoria": "Ropa adulto",
-    "precio": 8990,
+    "precio": 10990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla S",
@@ -2350,7 +2350,7 @@ window.PRODUCTOS = [
     "id": 124,
     "marca": "Abercrombie & Fitch",
     "talla": "XS",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -2635,7 +2635,7 @@ window.PRODUCTOS = [
     "id": 139,
     "marca": "The North Face",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -2711,7 +2711,7 @@ window.PRODUCTOS = [
     "id": 143,
     "marca": "Adidas",
     "talla": "XS",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -2740,7 +2740,7 @@ window.PRODUCTOS = [
     "categoria": "Ropa adulto",
     "precio": 22990,
     "precioAntes": 0,
-    "estado": "Nuevo",
+    "estado": "Como nuevo",
     "medidas": "Talla S",
     "desc": "Color blancos. Como nuevo",
     "foto": "img/145.jpg",
@@ -2749,7 +2749,7 @@ window.PRODUCTOS = [
     "id": 145,
     "marca": "Calzedonia",
     "talla": "S",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -2909,9 +2909,9 @@ window.PRODUCTOS = [
   {
     "nombre": "Polerón Scalpers",
     "categoria": "Ropa adulto",
-    "precio": 31990,
+    "precio": 14990,
     "precioAntes": 0,
-    "estado": "Como nuevo",
+    "estado": "Con uso",
     "medidas": "Talla XS",
     "desc": "Color blanco. Usado",
     "foto": "img/154.jpg",
@@ -2920,7 +2920,7 @@ window.PRODUCTOS = [
     "id": 154,
     "marca": "Scalpers",
     "talla": "XS",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -2949,7 +2949,7 @@ window.PRODUCTOS = [
     "categoria": "Ropa adulto",
     "precio": 27990,
     "precioAntes": 0,
-    "estado": "Nuevo",
+    "estado": "Como nuevo",
     "medidas": "Talla XS",
     "desc": "Color negro. Nuevo",
     "foto": "img/156.jpg",
@@ -2958,8 +2958,8 @@ window.PRODUCTOS = [
     "id": 156,
     "marca": "Karl Lagerfeld",
     "talla": "XS",
-    "exclusiva": true,
-    "etiqueta": true,
+    "exclusiva": false,
+    "etiqueta": false,
     "fotos": [],
     "descLarga": ""
   },
@@ -3006,7 +3006,7 @@ window.PRODUCTOS = [
     "categoria": "Ropa adulto",
     "precio": 16990,
     "precioAntes": 0,
-    "estado": "Nuevo",
+    "estado": "Como nuevo",
     "medidas": "Talla M",
     "desc": "Color negra. Nuevo",
     "foto": "img/159.jpg",
@@ -3016,7 +3016,7 @@ window.PRODUCTOS = [
     "marca": "Zara",
     "talla": "M",
     "exclusiva": false,
-    "etiqueta": true,
+    "etiqueta": false,
     "fotos": [],
     "descLarga": ""
   },
@@ -3158,7 +3158,7 @@ window.PRODUCTOS = [
     "categoria": "Otros",
     "precio": 15990,
     "precioAntes": 0,
-    "estado": "Nuevo",
+    "estado": "Con uso",
     "medidas": "",
     "desc": "Color negro. Usado",
     "foto": "img/167.jpg",
@@ -3167,7 +3167,7 @@ window.PRODUCTOS = [
     "id": 167,
     "marca": "Michael Kors",
     "talla": "",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -3186,7 +3186,7 @@ window.PRODUCTOS = [
     "id": 168,
     "marca": "",
     "talla": "",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -3234,7 +3234,7 @@ window.PRODUCTOS = [
     "categoria": "Otros",
     "precio": 16990,
     "precioAntes": 0,
-    "estado": "Como nuevo",
+    "estado": "Con uso",
     "medidas": "",
     "desc": "Color café. Usado",
     "foto": "img/171.jpg",
@@ -3243,7 +3243,7 @@ window.PRODUCTOS = [
     "id": 171,
     "marca": "Calvin Klein",
     "talla": "",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
     "descLarga": ""
@@ -3311,7 +3311,7 @@ window.PRODUCTOS = [
     "categoria": "Zapatillas",
     "marca": "Fila",
     "talla": "36",
-    "precio": 17990,
+    "precio": 10990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla 36",
@@ -3321,7 +3321,7 @@ window.PRODUCTOS = [
     "fotos": [],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false
   },
   {
@@ -3332,7 +3332,7 @@ window.PRODUCTOS = [
     "talla": "37.5",
     "precio": 14990,
     "precioAntes": 0,
-    "estado": "Con uso",
+    "estado": "Como nuevo",
     "medidas": "Talla 37.5",
     "desc": "Color lila. como nuevo",
     "descLarga": "Zapatillas Nike Court Borough celestes con swoosh amarillo fluor e interior frambuesa. Combinación de colores única.",
@@ -3349,7 +3349,7 @@ window.PRODUCTOS = [
     "categoria": "Ropa niños",
     "marca": "Elv!",
     "talla": "12",
-    "precio": 16990,
+    "precio": 12990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla 12",
@@ -3360,7 +3360,7 @@ window.PRODUCTOS = [
     "estadoVenta": "disponible",
     "linkPago": "",
     "exclusiva": false,
-    "etiqueta": false
+    "etiqueta": true
   },
   {
     "id": 178,
@@ -3492,7 +3492,7 @@ window.PRODUCTOS = [
     "fotos": [],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false
   },
   {
@@ -3511,7 +3511,7 @@ window.PRODUCTOS = [
     "fotos": [],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false
   },
   {
@@ -3520,7 +3520,7 @@ window.PRODUCTOS = [
     "categoria": "Ropa niños",
     "marca": "Zara",
     "talla": "10",
-    "precio": 12990,
+    "precio": 9990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla 10",
@@ -3530,7 +3530,7 @@ window.PRODUCTOS = [
     "fotos": [],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false
   },
   {
@@ -3550,7 +3550,7 @@ window.PRODUCTOS = [
     "estadoVenta": "disponible",
     "linkPago": "",
     "exclusiva": false,
-    "etiqueta": true
+    "etiqueta": false
   },
   {
     "id": 188,
@@ -3568,7 +3568,7 @@ window.PRODUCTOS = [
     "fotos": [],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false
   },
   {
@@ -3625,8 +3625,8 @@ window.PRODUCTOS = [
     "fotos": [],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": true,
-    "etiqueta": true
+    "exclusiva": false,
+    "etiqueta": false
   },
   {
     "id": 192,
