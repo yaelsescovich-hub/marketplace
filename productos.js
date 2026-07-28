@@ -1121,7 +1121,7 @@ window.PRODUCTOS = [
     "descLarga": "Traje De Baño S/M en negro, talla M. Está como nuevo, prácticamente sin uso. Perfecto para dejar listo el verano con anticipación."
   },
   {
-    "nombre": "Vestido Corto",
+    "nombre": "Falda",
     "categoria": "Ropa adulto",
     "precio": 9990,
     "precioAntes": 0,
@@ -1137,7 +1137,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": "Vestido azul, talla M. En muy buen estado, con poco uso. Precio de oportunidad real."
+    "descLarga": "Falda en azul, talla M. En muy buen estado, con poco uso. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Alaniz",
@@ -1178,7 +1178,7 @@ window.PRODUCTOS = [
     "descLarga": "Vestido en azul, talla 11. Está como nuevo, prácticamente sin uso. Se va rápido en esta talla."
   },
   {
-    "nombre": "Polera",
+    "nombre": "Falda",
     "categoria": "Ropa adulto",
     "precio": 14990,
     "precioAntes": 0,
@@ -1194,7 +1194,7 @@ window.PRODUCTOS = [
     "exclusiva": false,
     "etiqueta": false,
     "fotos": [],
-    "descLarga": "Polera animal print, talla M. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
+    "descLarga": "Falda en animal print, talla M. Está como nuevo, prácticamente sin uso. Precio de oportunidad real."
   },
   {
     "nombre": "Vestido Abercrombie & Fitch",
@@ -3311,7 +3311,7 @@ window.PRODUCTOS = [
     "categoria": "Zapatillas",
     "marca": "Fila",
     "talla": "36",
-    "precio": 18990,
+    "precio": 10990,
     "precioAntes": 0,
     "estado": "Como nuevo",
     "medidas": "Talla 36",
@@ -3322,7 +3322,7 @@ window.PRODUCTOS = [
     "estadoVenta": "disponible",
     "linkPago": "",
     "exclusiva": false,
-    "etiqueta": true
+    "etiqueta": false
   },
   {
     "id": 176,
@@ -3945,6 +3945,153 @@ window.PRODUCTOS = [
     "desc": "Color negro con diseño. usado",
     "descLarga": "Polera Divided negra sin mangas con estampado de diseño. Básico urbano con actitud.",
     "foto": "img/208.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 209,
+    "nombre": "Sillas de comedor cuero trenzado (10 disponibles)",
+    "categoria": "Comedor",
+    "marca": "",
+    "talla": "",
+    "precio": 90000,
+    "precioAntes": 0,
+    "estado": "Muy bueno",
+    "medidas": "",
+    "desc": "Precio por unidad. 10 disponibles, cuero con respaldo trenzado y tachas.",
+    "descLarga": "Sillas de comedor en cuero negro con respaldo alto de cuero trenzado artesanal — un detalle que las hace únicas — y parte posterior rematada con tachas metálicas en todo el contorno. Asiento acolchado firme y patas de madera maciza en tono oscuro. Sólidas, cómodas y muy elegantes; el trenzado les da textura sin recargarlas. Precio por unidad, hay 10 disponibles: llévalas todas para un comedor grande o de a pares. Ideales también para combinar con mesa de cristal o madera.",
+    "foto": "img/209.jpg",
+    "fotos": [
+      "img/209.jpg",
+      "img/209_2.jpg",
+      "img/209_3.jpg"
+    ],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": true,
+    "etiqueta": false
+  },
+  {
+    "id": 210,
+    "nombre": "Mesa de comedor cristal 2,2 × 1,2 m",
+    "categoria": "Comedor",
+    "marca": "",
+    "talla": "",
+    "precio": 650000,
+    "precioAntes": 0,
+    "estado": "Muy bueno",
+    "medidas": "220 x 120 cm",
+    "desc": "Cubierta de cristal biselado de gran formato, cómoda para 8-10 personas.",
+    "descLarga": "Mesa de comedor con cubierta de cristal templado biselado de 2,2 × 1,2 metros — formato grande, cómoda para 8 a 10 personas — sobre estructura minimalista que hace que la cubierta parezca flotar. El cristal agranda visualmente cualquier comedor y deja protagonismo a las sillas y la lámpara. Pieza de calidad que nueva cuesta varias veces este precio. Combina perfecto con las sillas de cuero trenzado publicadas (se pueden llevar en conjunto: pide precio por el set completo).",
+    "foto": "img/210.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 211,
+    "nombre": "Cama nido con cajones + escritorio, colchones incluidos",
+    "categoria": "Muebles",
+    "marca": "",
+    "talla": "",
+    "precio": 700000,
+    "precioAntes": 0,
+    "estado": "Muy bueno",
+    "medidas": "1 plaza + cama nido",
+    "desc": "Set dormitorio blanco estilo provenzal: cama nido, cajones, escritorio con silla y ambos colchones.",
+    "descLarga": "Set de dormitorio completo en madera lacada blanca estilo provenzal. Incluye: cama de 1 plaza con respaldo tallado, segunda cama nido extraíble (perfecta para alojados o pijamadas), cajones inferiores de guardado con tiradores metálicos, AMBOS colchones, y el escritorio/tocador a juego con cubierta de vidrio, tres cajones y silla blanca. Un dormitorio de niña resuelto entero en una sola compra, de calidad muy superior a lo que se encuentra nuevo por este precio. Todo funcional y en muy buen estado.",
+    "foto": "img/211.jpg",
+    "fotos": [],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 212,
+    "nombre": "Sofá de cuero Rosen 1,8 m",
+    "categoria": "Muebles",
+    "marca": "Rosen",
+    "talla": "",
+    "precio": 600000,
+    "precioAntes": 0,
+    "estado": "Muy bueno",
+    "medidas": "180 cm de ancho",
+    "desc": "Cuero color hueso, respaldos capitoné. Rosen, calidad reconocida.",
+    "descLarga": "Sofá Rosen de cuero legítimo color hueso, 1,8 metros de ancho, con respaldos capitoné de pespunte cuadriculado y brazos anchos rectos. Rosen es sinónimo de calidad en Chile: estructura firme, cuero noble que envejece bien y comodidad real para dos personas más que holgadas. Un color claro y atemporal que ilumina cualquier living. En muy buen estado; a este precio es una fracción de su valor nuevo.",
+    "foto": "img/212.jpg",
+    "fotos": [
+      "img/212.jpg",
+      "img/212_2.jpg"
+    ],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": true,
+    "etiqueta": false
+  },
+  {
+    "id": 213,
+    "nombre": "Bicicleta spinning Lime Pro Equipment",
+    "categoria": "Deporte",
+    "marca": "Lime",
+    "talla": "",
+    "precio": 80000,
+    "precioAntes": 0,
+    "estado": "Bueno",
+    "medidas": "",
+    "desc": "Rueda de inercia, asiento y manubrio regulables. Incluye caramagiola.",
+    "descLarga": "Bicicleta de spinning Lime Pro Equipment con rueda de inercia para pedaleo fluido y silencioso, resistencia regulable, asiento y manubrio ajustables en altura y profundidad, y portacaramagiola con botella incluida. Perfecta para entrenar en casa sin depender del gimnasio ni del clima. Funciona correctamente; lista para usar. Foto principal referencial del modelo; las siguientes muestran la unidad real.",
+    "foto": "img/213.jpg",
+    "fotos": [
+      "img/213.jpg",
+      "img/213_2.jpg"
+    ],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 214,
+    "nombre": "Trotadora NordicTrack C990 · 3.0 CHP",
+    "categoria": "Deporte",
+    "marca": "NordicTrack",
+    "talla": "",
+    "precio": 450000,
+    "precioAntes": 0,
+    "estado": "Muy bueno",
+    "medidas": "Plegable",
+    "desc": "Motor 3.0 CHP, plegable, pantalla y programas. Marca líder en running casero.",
+    "descLarga": "Trotadora NordicTrack C990 con motor de 3.0 CHP — potencia de nivel semiprofesional que soporta trote exigente diario —, banda amplia con amortiguación FlexSelect, consola con pantalla, programas de entrenamiento e inclinación eléctrica. Es plegable: se guarda vertical y libera el espacio (así aparece en las fotos). NordicTrack es de las marcas más reconocidas del mundo en equipamiento de running casero; nueva, esta línea supera largamente el millón de pesos. Funcionando perfecto. Foto principal referencial del modelo desplegado; las siguientes muestran la unidad real guardada.",
+    "foto": "img/214.jpg",
+    "fotos": [
+      "img/214.jpg",
+      "img/214_2.jpg",
+      "img/214_3.jpg"
+    ],
+    "estadoVenta": "disponible",
+    "linkPago": "",
+    "exclusiva": false,
+    "etiqueta": false
+  },
+  {
+    "id": 215,
+    "nombre": "Mueble de TV modular con estantería",
+    "categoria": "Muebles",
+    "marca": "",
+    "talla": "",
+    "precio": 319990,
+    "precioAntes": 0,
+    "estado": "Muy bueno",
+    "medidas": "",
+    "desc": "Rack TV + módulos de estantes y puertas, tonos gris y blanco.",
+    "descLarga": "Mueble de televisión modular en melamina gris grafito con puertas blancas: rack inferior con tres compartimentos cerrados para consolas y equipos, más torre de estantería con repisas abiertas, nichos superiores y puerta lateral. Configuración flexible que ordena el living completo — televisor, libros, decoración y cables — en un solo mueble de líneas limpias. Amplio, firme y en muy buen estado.",
+    "foto": "img/215.jpg",
     "fotos": [],
     "estadoVenta": "disponible",
     "linkPago": "",
