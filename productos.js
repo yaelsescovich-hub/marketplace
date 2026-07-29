@@ -3934,7 +3934,7 @@ window.PRODUCTOS = [
   },
   {
     "id": 208,
-    "nombre": "Polera Divided",
+    "nombre": "Divided",
     "categoria": "Ropa niños",
     "marca": "Divided",
     "talla": "S",
