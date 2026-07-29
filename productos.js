@@ -3934,7 +3934,7 @@ window.PRODUCTOS = [
   },
   {
     "id": 208,
-    "nombre": "Divided",
+    "nombre": "Falda Ecocuero Divided",
     "categoria": "Ropa niños",
     "marca": "Divided",
     "talla": "S",
@@ -3943,7 +3943,7 @@ window.PRODUCTOS = [
     "estado": "Usado",
     "medidas": "Talla S",
     "desc": "Color negro con diseño. usado",
-    "descLarga": "Polera Divided negra sin mangas con estampado de diseño. Básico urbano con actitud.",
+    "descLarga": "Falda eco-cuero Divided negra sin mangas con estampado de diseño. Básico urbano con actitud.",
     "foto": "img/208.jpg",
     "fotos": [],
     "estadoVenta": "disponible",
@@ -3971,7 +3971,7 @@ window.PRODUCTOS = [
     ],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false
   },
   {
@@ -3999,8 +3999,8 @@ window.PRODUCTOS = [
     "categoria": "Muebles",
     "marca": "",
     "talla": "",
-    "precio": 600000,
-    "precioAntes": 800000,
+    "precio": 700000,
+    "precioAntes": 0,
     "estado": "Muy bueno",
     "medidas": "1 plaza + cama nido",
     "desc": "Set dormitorio blanco estilo provenzal: cama nido, cajones, escritorio con silla y ambos colchones.",
