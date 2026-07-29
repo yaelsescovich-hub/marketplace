@@ -3971,7 +3971,7 @@ window.PRODUCTOS = [
     ],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": true,
+    "exclusiva": false,
     "etiqueta": false
   },
   {
@@ -3999,8 +3999,8 @@ window.PRODUCTOS = [
     "categoria": "Muebles",
     "marca": "",
     "talla": "",
-    "precio": 700000,
-    "precioAntes": 0,
+    "precio": 600000,
+    "precioAntes": 800000,
     "estado": "Muy bueno",
     "medidas": "1 plaza + cama nido",
     "desc": "Set dormitorio blanco estilo provenzal: cama nido, cajones, escritorio con silla y ambos colchones.",
