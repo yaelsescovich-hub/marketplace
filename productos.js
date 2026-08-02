@@ -545,7 +545,7 @@ window.PRODUCTOS = [
     "id": 29,
     "marca": "Michael Kors",
     "talla": "",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false,
     "fotos": [],
     "descLarga": "Cinturon Michael Kors en negro. Está como nuevo, prácticamente sin uso. Michael Kors, lujo accesible americano; sus accesorios mantienen valor. Precio de oportunidad real."
@@ -3158,7 +3158,7 @@ window.PRODUCTOS = [
     "categoria": "Otros",
     "precio": 15990,
     "precioAntes": 0,
-    "estado": "Con uso",
+    "estado": "Como nuevo",
     "medidas": "",
     "desc": "Color negro. Usado",
     "foto": "img/167.jpg",
@@ -3167,7 +3167,7 @@ window.PRODUCTOS = [
     "id": 167,
     "marca": "Michael Kors",
     "talla": "",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false,
     "fotos": [],
     "descLarga": "Cinturón Michael Kors en negro. Con uso, precio acorde. Michael Kors, lujo accesible americano; sus accesorios mantienen valor. Accesorio útil, precio conveniente."
