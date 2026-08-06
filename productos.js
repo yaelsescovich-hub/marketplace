@@ -4360,7 +4360,7 @@ window.PRODUCTOS = [
     "medidas": "Pantalla curva",
     "desc": "UHD 4K curvo con base original",
     "foto": "img/228.jpg",
-    "estadoVenta": "reservado",
+    "estadoVenta": "vendido",
     "linkPago": "",
     "id": 228,
     "marca": "Samsung",
