@@ -32,7 +32,7 @@ window.PRODUCTOS = [
     "id": 2,
     "marca": "Allsaints",
     "talla": "S",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false,
     "fotos": [],
     "descLarga": "Vestido Allsaints en dorado, talla S. Está como nuevo, prácticamente sin uso. AllSaints es una marca británica de estética contemporánea, difícil de encontrar en reventa en Chile. Una buena pieza para el clóset a fracción del precio de tienda."
@@ -230,8 +230,8 @@ window.PRODUCTOS = [
   {
     "nombre": "Parka Abercrombie & Fitch",
     "categoria": "Ropa adulto",
-    "precio": 13990,
-    "precioAntes": 0,
+    "precio": 10990,
+    "precioAntes": 29990,
     "estado": "Como nuevo",
     "medidas": "Talla S",
     "desc": "Color rosado. Poco uso",
@@ -545,7 +545,7 @@ window.PRODUCTOS = [
     "id": 29,
     "marca": "Michael Kors",
     "talla": "",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false,
     "fotos": [],
     "descLarga": "Cinturon Michael Kors en negro. Está como nuevo, prácticamente sin uso. Michael Kors, lujo accesible americano; sus accesorios mantienen valor. Precio de oportunidad real."
@@ -840,7 +840,7 @@ window.PRODUCTOS = [
     "categoria": "Traje de baño",
     "precio": 39990,
     "precioAntes": 0,
-    "estado": "Como nuevo",
+    "estado": "Nuevo",
     "medidas": "Talla 34D/S",
     "desc": "Color animal print negro. Poco uso",
     "foto": "img/045.jpg",
@@ -849,7 +849,7 @@ window.PRODUCTOS = [
     "id": 45,
     "marca": "Victoria Secret",
     "talla": "34D/S",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false,
     "fotos": [],
     "descLarga": "Bikini Victoria Secret en animal print negro, talla 34D/S. Está como nuevo, prácticamente sin uso. Victoria's Secret, línea de baño americana. Perfecto para dejar listo el verano con anticipación."
@@ -1495,7 +1495,7 @@ window.PRODUCTOS = [
     "id": 79,
     "marca": "Abercrombie Kids",
     "talla": "16",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false,
     "fotos": [],
     "descLarga": "Falda Abercrombie Kids en blanco, talla 16. Está como nuevo, prácticamente sin uso. Se va rápido en esta talla."
@@ -2122,7 +2122,7 @@ window.PRODUCTOS = [
     "id": 112,
     "marca": "Abercrombie Kids",
     "talla": "16",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false,
     "fotos": [],
     "descLarga": "Falda Abercrombie Kids en negro, talla 16. Está como nuevo, prácticamente sin uso. Ideal para renovar el clóset sin pagar precio de tienda."
@@ -2339,8 +2339,8 @@ window.PRODUCTOS = [
   {
     "nombre": "Chaleco Abercrombie & Fitch",
     "categoria": "Ropa adulto",
-    "precio": 21990,
-    "precioAntes": 0,
+    "precio": 19990,
+    "precioAntes": 25990,
     "estado": "Muy bueno",
     "medidas": "Talla XS",
     "desc": "Color gris. Poco uso",
@@ -2350,7 +2350,7 @@ window.PRODUCTOS = [
     "id": 124,
     "marca": "Abercrombie & Fitch",
     "talla": "XS",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false,
     "fotos": [],
     "descLarga": "Chaleco Abercrombie & Fitch en gris, talla XS. En muy buen estado, con poco uso. Abercrombie & Fitch, calidad americana con calce favorecedor. Una buena pieza para el clóset a fracción del precio de tienda."
@@ -3167,7 +3167,7 @@ window.PRODUCTOS = [
     "id": 167,
     "marca": "Michael Kors",
     "talla": "",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false,
     "fotos": [],
     "descLarga": "Cinturón Michael Kors en negro. Con uso, precio acorde. Michael Kors, lujo accesible americano; sus accesorios mantienen valor. Accesorio útil, precio conveniente."
@@ -3445,7 +3445,7 @@ window.PRODUCTOS = [
     "marca": "Abercrombie Kids",
     "talla": "9/10",
     "precio": 5990,
-    "precioAntes": 0,
+    "precioAntes": 12990,
     "estado": "Usado",
     "medidas": "Talla 9/10",
     "desc": "Color blanco. usado",
@@ -3454,7 +3454,7 @@ window.PRODUCTOS = [
     "fotos": [],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false
   },
   {
@@ -3492,7 +3492,7 @@ window.PRODUCTOS = [
     "fotos": [],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false
   },
   {
@@ -3511,7 +3511,7 @@ window.PRODUCTOS = [
     "fotos": [],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false
   },
   {
@@ -3568,7 +3568,7 @@ window.PRODUCTOS = [
     "fotos": [],
     "estadoVenta": "disponible",
     "linkPago": "",
-    "exclusiva": false,
+    "exclusiva": true,
     "etiqueta": false
   },
   {
@@ -3820,7 +3820,7 @@ window.PRODUCTOS = [
   },
   {
     "id": 202,
-    "nombre": "Falda Negra Abercrombie Kids",
+    "nombre": "Polera Negra Abercrombie Kids",
     "categoria": "Ropa niños",
     "marca": "Abercrombie Kids",
     "talla": "11/12",
@@ -3829,7 +3829,7 @@ window.PRODUCTOS = [
     "estado": "Como nuevo",
     "medidas": "Talla 11/12",
     "desc": "Color negro de cuero. como nuevo",
-    "descLarga": "Falda Abercrombie Kids de ecocuero negra, corte envolvente (wrap) y cintura paperbag con cinturón del mismo material. Muy estilosa.",
+    "descLarga": "Polera Abercrombie Kids de ecocuero negra, corte envolvente (wrap) y cintura paperbag con cinturón del mismo material. Muy estilosa.",
     "foto": "img/202.jpg",
     "fotos": [],
     "estadoVenta": "disponible",
