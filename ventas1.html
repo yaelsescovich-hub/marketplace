@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Panel Ventas - Vitrina Privada</title>
+<style>:root{--navy:#22255A;--mos:#D8A828;--verd:#6FA52C;--rojo:#c0392b;--gris:#f0f2f5;}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,system-ui,sans-serif;background:var(--gris);color:#222;font-size:15px;}
+header{background:var(--navy);color:#fff;padding:14px 16px;position:sticky;top:0;z-index:10;display:flex;align-items:center;gap:10px;}
+header h1{font-size:16px;flex:1;}
+.badge{background:var(--mos);color:#fff;border-radius:20px;padding:2px 10px;font-size:12px;font-weight:700;}
+main{max-width:700px;margin:0 auto;padding:12px;}
+.card{background:#fff;border-radius:14px;padding:16px;margin-bottom:12px;box-shadow:0 1px 4px rgba(0,0,0,.08);}
+input,select,textarea,button{font-size:15px;font-family:inherit;}
+input,select,textarea{width:100%;padding:10px 12px;border:1px solid #ddd;border-radius:9px;background:#fff;}
+textarea{resize:vertical;min-height:72px;}
+button{padding:11px 16px;border:0;border-radius:9px;cursor:pointer;font-weight:600;}
+.btn-navy{background:var(--navy);color:#fff;width:100%;}
+.btn-sm{padding:10px 12px;font-size:13px;flex:none;}
+.btn-mos{background:var(--mos);color:#fff;}
+.btn-rojo{background:var(--rojo);color:#fff;}
+.btn-gris{background:#ddd;color:#444;}
+.row{display:flex;gap:8px;align-items:flex-start;}
+.row>*{flex:1;}
+.lbl{display:block;font-size:12px;font-weight:700;color:#666;margin:10px 0 4px;}
+.slbl{font-size:12px;font-weight:700;color:#666;margin-bottom:6px;}
+.tag{display:inline-block;font-size:11px;padding:2px 9px;border-radius:20px;color:#fff;font-weight:600;}
+.t-disponible{background:var(--verd)}.t-vendido{background:var(--rojo)}.t-reservado{background:var(--mos)}
+.be{padding:8px 12px;font-size:13px;border-radius:8px;border:0;cursor:pointer;font-weight:600;color:#fff;}
+.bv{background:var(--verd)}.bm{background:var(--mos)}.br{background:var(--rojo)}
+.acc-rap{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:4px;}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px;}
+.chip{padding:8px 14px;border-radius:20px;border:2px solid var(--navy);color:var(--navy);background:#fff;cursor:pointer;font-size:13px;font-weight:600;}
+.chip.on{background:var(--navy);color:#fff;}
+.fotos-strip{display:flex;gap:6px;flex-wrap:wrap;}
+.fotos-strip img{width:60px;height:45px;object-fit:cover;border-radius:7px;}
+.main-foto{border:2px solid var(--mos);}
+.drop-zone{border:2px dashed #ccc;border-radius:10px;padding:20px;text-align:center;color:#999;cursor:pointer;margin-top:8px;}
+.sep{height:1px;background:#eee;margin:14px 0;}
+.grid-f{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px;}
+.grid-f input,.grid-f select{flex:1;min-width:130px;}
+.cnt{font-size:12px;color:#888;text-align:right;}
+.pitem{background:#fff;border-radius:12px;margin-bottom:8px;box-shadow:0 1px 3px rgba(0,0,0,.07);overflow:hidden;}
+.pitem-head{display:flex;align-items:center;gap:10px;padding:12px 14px;cursor:pointer;}
+.pitem-head img{width:56px;height:42px;object-fit:cover;border-radius:7px;flex:none;}
+.pitem-info{flex:1;min-width:0;}
+.pitem-nom{font-weight:700;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.pitem-sub{font-size:11px;color:#777;margin-top:2px;}
+.chev{font-size:18px;color:#aaa;transition:transform .2s;}
+.pitem.open .chev{transform:rotate(180deg);}
+.pitem-body{padding:0 14px 14px;border-top:1px solid #f0f2f5;}
+.pitem-body.oculto{display:none;}
+#estado{text-align:center;font-size:13px;padding:8px;min-height:28px;border-radius:8px;}
+.ok{background:#eafaf1;color:#1a7a40;font-weight:700;}
+.err{background:#fdecea;color:var(--rojo);font-weight:700;}
+.info{background:#eef4ff;color:#2255a0;}
+.oculto{display:none!important;}
+.loading{text-align:center;padding:30px;color:#999;}</style>
+</head>
+<body>
+<header>
+  <h1>Panel de Ventas - Vitrina Privada</h1>
+  <span class="badge" id="hdrCnt">-</span>
+</header>
+<main>
+
+<div id="login" class="card">
+  <p style="margin-bottom:14px;font-weight:600">Entra con tu cuenta del CRM</p>
+  <label class="lbl">Correo</label>
+  <input type="email" id="email" value="yaelsescovich@fourtms.com" autocomplete="username">
+  <label class="lbl">Clave</label>
+  <input type="password" id="pass" autocomplete="current-password">
+  <div style="height:12px"></div>
+  <button class="btn-navy" id="btnEntrar">Entrar</button>
+  <div id="loginmsg" style="color:var(--rojo);font-size:13px;margin-top:8px"></div>
+</div>
+
+<div id="panel" class="oculto">
+  <div id="estado" class="info">Cargando...</div>
+
+  <div class="card" style="margin-top:10px">
+    <div class="grid-f">
+      <input type="search" id="buscar" placeholder="Buscar por nombre, ID, categoria...">
+      <select id="filtEst">
+        <option value="">Todos</option>
+        <option value="disponible" selected>Disponibles</option>
+        <option value="reservado">Reservados</option>
+        <option value="vendido">Vendidos</option>
+      </select>
+    </div>
+    <div class="cnt" id="cntRes"></div>
+  </div>
+
+  <div id="lista"><div class="loading">Cargando productos...</div></div>
+
+  <div class="card">
+    <div style="font-weight:700;margin-bottom:12px">Agregar producto nuevo</div>
+    <label class="lbl">Nombre *</label>
+    <input type="text" id="nNombre" placeholder="Ej: Silla de escritorio ergonomica">
+    <div class="row">
+      <div><label class="lbl">Precio actual *</label><input type="number" id="nPrecio" placeholder="85000"></div>
+      <div><label class="lbl">Precio anterior</label><input type="number" id="nPrecioAntes" placeholder="120000"></div>
+    </div>
+    <label class="lbl">Categoria</label>
+    <select id="nCat"><option>Comedor</option><option>Deporte</option><option>Electrodomésticos</option><option>Muebles</option><option>Otros</option><option>Ropa adulto</option><option>Ropa niños</option><option>Terraza</option><option>Traje de baño</option><option>Zapatillas</option></select>
+    <div class="row">
+      <div><label class="lbl">Estado fisico</label><select id="nEstado"><option>Nuevo</option><option>Como nuevo</option><option>Poco uso</option><option>Muy bueno</option><option>Bueno</option><option>Con uso</option><option>Usado</option></select></div>
+      <div><label class="lbl">Medidas / talla</label><input type="text" id="nMedidas" placeholder="Ej: 120x60cm"></div>
+    </div>
+    <label class="lbl">Descripcion corta (card)</label>
+    <input type="text" id="nDesc" placeholder="Una linea para la card">
+    <label class="lbl">Descripcion larga (ficha)</label>
+    <textarea id="nDescLarga" placeholder="Detalle completo del producto"></textarea>
+    <label class="lbl">Link de pago (Mercado Pago)</label>
+    <input type="url" id="nLinkPago" placeholder="https://mpago.la/...">
+    <label class="lbl">Marca</label>
+    <input type="text" id="nMarca" placeholder="Ej: Samsung, Nike...">
+    <div class="chips" style="margin-top:12px">
+      <div class="chip" id="chkExclusiva" onclick="this.classList.toggle('on')">Marca exclusiva</div>
+      <div class="chip" id="chkEtiqueta" onclick="this.classList.toggle('on')">Etiqueta</div>
+      <div class="chip" id="chkNuevo" onclick="this.classList.toggle('on')">100% Nuevo</div>
+    </div>
+    <label class="lbl">Fotos</label>
+    <div class="drop-zone" onclick="document.getElementById('fotoInput').click()">
+      Toca para agregar fotos desde camara o galeria
+      <input type="file" id="fotoInput" accept="image/*" multiple style="display:none" onchange="handleFotos(this.files)">
+    </div>
+    <div class="fotos-strip" id="fotosPreview" style="margin-top:8px"></div>
+    <div style="height:12px"></div>
+    <button class="btn-navy" onclick="guardarNuevo()">Guardar producto nuevo</button>
+  </div>
+</div>
+
+</main>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+<script src="productos.js"></script>
+<script>
+var SUPA_URL='https://bgoetvepmyfpolowgwnr.supabase.co';
+var SUPA_KEY='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJnb2V0dmVwbXlmcG9sb3dnd25yIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI4MzMxNTgsImV4cCI6MjA5ODQwOTE1OH0.9eE5iDiaMO9R3b_paSxMHnzLCrRA-ewreuFJhU-LnjU';
+var db=window.supabase.createClient(SUPA_URL,SUPA_KEY);
+var CAT=(window.PRODUCTOS||[]).slice();
+var OVR={};
+var fotosNuevas=[];
+
+function byId(id){return document.getElementById(id);}
+function fmt(n){return n?'$'+Number(n).toLocaleString('es-CL'):'';}
+function msg(t,cls){var e=byId('estado');e.textContent=t;e.className=cls||'info';}
+
+async function entrar(){
+  var r=await db.auth.signInWithPassword({email:byId('email').value.trim(),password:byId('pass').value});
+  if(r.error){byId('loginmsg').textContent='Error: '+r.error.message;return;}
+  mostrarPanel();
+}
+function mostrarPanel(){byId('login').classList.add('oculto');byId('panel').classList.remove('oculto');cargar();}
+byId('btnEntrar').addEventListener('click',entrar);
+byId('pass').addEventListener('keydown',function(e){if(e.key==='Enter')entrar();});
+db.auth.getSession().then(function(s){if(s.data&&s.data.session)mostrarPanel();});
+
+async function cargar(){
+  msg('Cargando estados...','info');
+  var r=await db.from('tienda_estado').select('*');
+  if(r.error){msg('Error: '+r.error.message,'err');return;}
+  OVR={};(r.data||[]).forEach(function(x){OVR[x.id]=x;});
+  msg((r.data||[]).length+' cambios activos','ok');
+  setTimeout(function(){msg('','');},2500);
+  pintar();
+}
+
+function merged(p){
+  var o=OVR[p.id]||{};
+  return {
+    id:p.id,
+    nombre:o.nombre||p.nombre||'',
+    categoria:o.categoria||p.categoria||'',
+    precio:o.precio||p.precio||0,
+    precioAntes:o.precio_antes||p.precioAntes||0,
+    estado:o.estado||p.estado||'',
+    medidas:o.medidas||p.medidas||'',
+    desc:o.desc_corta||p.desc||'',
+    descLarga:o.desc_larga||p.descLarga||'',
+    marca:o.marca||p.marca||'',
+    talla:o.talla||p.talla||'',
+    linkPago:o.link_pago||p.linkPago||'',
+    exclusiva:(o.exclusiva!=null)?o.exclusiva:p.exclusiva,
+    etiqueta:(o.etiqueta!=null)?o.etiqueta:p.etiqueta,
+    foto:p.foto||'',
+    fotos:p.fotos||[],
+    fotosExtra:o.fotos_extra?JSON.parse(o.fotos_extra):[],
+    estadoVenta:o.estado_venta||p.estadoVenta||'disponible'
+  };
+}
+
+function esc(s){return (s||'').replace(/"/g,'&quot;').replace(/</g,'&lt;');}
+
+function pintar(){
+  var q=(byId('buscar').value||'').toLowerCase().trim();
+  var fe=byId('filtEst').value;
+  var out=CAT.map(merged).filter(function(p){
+    if(fe&&p.estadoVenta!==fe)return false;
+    if(q&&String(p.id)!==q&&p.nombre.toLowerCase().indexOf(q)<0&&p.categoria.toLowerCase().indexOf(q)<0)return false;
+    return true;
+  });
+  byId('hdrCnt').textContent=out.length+' productos';
+  byId('cntRes').textContent=out.length+' resultados';
+  if(!out.length){byId('lista').innerHTML='<div class="card" style="text-align:center;color:#999">Sin resultados</div>';return;}
+  byId('lista').innerHTML=out.slice(0,80).map(function(p){
+    var est=p.estadoVenta;
+    var todasFotos=p.fotos.concat(p.fotosExtra);
+    var thumbs=todasFotos.slice(0,5).map(function(f,i){
+      return '<img src="'+f+'" class="'+(i===0?'main-foto':'')+'" loading="lazy">';
+    }).join('');
+    var bots='';
+    if(est!=='disponible') bots+='<button class="be bv" data-id="'+p.id+'" data-ac="disponible">Disponible</button>';
+    if(est!=='reservado')  bots+='<button class="be bm" data-id="'+p.id+'" data-ac="reservado">Reservado</button>';
+    if(est!=='vendido')    bots+='<button class="be br" data-id="'+p.id+'" data-ac="vendido">Vendido</button>';
+    var pa=p.precioAntes?'<s>'+fmt(p.precioAntes)+'</s>':'';
+    var lbtn=p.linkPago?'<a href="'+p.linkPago+'" target="_blank"><button class="btn-sm btn-gris" type="button">Ir</button></a>':'';
+    return '<div class="pitem" id="pi'+p.id+'">'
+      +'<div class="pitem-head" onclick="toggle('+p.id+')">'
+        +'<img src="'+p.foto+'" loading="lazy">'
+        +'<div class="pitem-info">'
+          +'<div class="pitem-nom">#'+p.id+' '+p.nombre+'</div>'
+          +'<div class="pitem-sub">'+fmt(p.precio)+' '+pa+' · <span class="tag t-'+est+'">'+est+'</span></div>'
+        +'</div>'
+        +'<span class="chev">⌄</span>'
+      +'</div>'
+      +'<div class="pitem-body oculto" id="pb'+p.id+'">'
+        +'<div class="fotos-strip" style="margin-top:10px">'+thumbs+'</div>'
+        +'<div class="sep"></div>'
+        +'<div class="slbl">ESTADO DE VENTA</div>'
+        +'<div class="acc-rap">'+bots+'</div>'
+        +'<div class="sep"></div>'
+        +'<div class="row">'
+          +'<div><label class="lbl">Precio actual</label><input type="number" id="pr'+p.id+'" value="'+p.precio+'"></div>'
+          +'<div><label class="lbl">Precio anterior</label><input type="number" id="pa'+p.id+'" value="'+(p.precioAntes||'')+'"></div>'
+          +'<button class="btn-sm btn-mos" onclick="guardarPrecio('+p.id+')" style="align-self:flex-end">$ OK</button>'
+        +'</div>'
+        +'<label class="lbl">Link de pago (Mercado Pago)</label>'
+        +'<div class="row">'
+          +'<input type="url" id="lp'+p.id+'" value="'+esc(p.linkPago)+'" placeholder="https://mpago.la/...">'
+          +'<button class="btn-sm btn-navy" onclick="guardarLink('+p.id+')">Guardar</button>'
+          +lbtn
+        +'</div>'
+        +'<label class="lbl">Descripción corta (card)</label>'
+        +'<input type="text" id="dc'+p.id+'" value="'+esc(p.desc)+'">'
+        +'<label class="lbl">Descripción larga (ficha)</label>'
+        +'<textarea id="dl'+p.id+'">'+esc(p.descLarga)+'</textarea>'
+        +'<button class="btn-navy" style="margin-top:8px;width:100%" onclick="guardarDesc('+p.id+')">Guardar descripción</button>'
+        +'<div class="sep"></div>'
+        +'<div class="chips">'
+          +'<div class="chip '+(p.exclusiva?'on':'')+'" onclick="toggleFlag('+p.id+',\'exclusiva\',this)">⭐ Marca exclusiva</div>'
+          +'<div class="chip '+(p.etiqueta?'on':'')+'" onclick="toggleFlag('+p.id+',\'etiqueta\',this)">🏷 Etiqueta</div>'
+        +'</div>'
+        +'<div class="sep"></div>'
+        +'<button class="btn-gris" style="width:100%" onclick="copiarLink('+p.id+')">📲 Copiar link WhatsApp</button>'
+      +'</div>'
+    +'</div>';
+  }).join('');
+}
+
+function toggle(id){
+  document.getElementById('pi'+id).classList.toggle('open');
+  document.getElementById('pb'+id).classList.toggle('oculto');
+}
+
+document.addEventListener('click',function(ev){
+  var b=ev.target.closest('[data-ac][data-id]');
+  if(!b)return;
+  var id=parseInt(b.getAttribute('data-id'),10);
+  var ac=b.getAttribute('data-ac');
+  guardar(id,{estado_venta:ac},'#'+id+' → '+ac);
+});
+
+async function guardar(id,campos,okMsg){
+  campos.id=id; campos.updated_at=new Date().toISOString();
+  var r=await db.from('tienda_estado').upsert(campos,{onConflict:'id'});
+  if(r.error){msg('Error: '+r.error.message,'err');return false;}
+  OVR[id]=Object.assign(OVR[id]||{id:id},campos);
+  msg(okMsg||'Guardado','ok');
+  setTimeout(function(){msg('','');},2200);
+  pintar(); return true;
+}
+function guardarPrecio(id){
+  var p=parseInt((byId('pr'+id)||{}).value,10)||0;
+  var a=parseInt((byId('pa'+id)||{}).value,10)||0;
+  if(!p){msg('Precio inválido','err');return;}
+  guardar(id,{precio:p,precio_antes:a||null},'Precio #'+id+' → '+fmt(p));
+}
+function guardarLink(id){
+  var l=((byId('lp'+id)||{}).value||'').trim();
+  guardar(id,{link_pago:l},'Link de pago #'+id+' guardado');
+}
+function guardarDesc(id){
+  var dc=((byId('dc'+id)||{}).value||'').trim();
+  var dl=((byId('dl'+id)||{}).value||'').trim();
+  guardar(id,{desc_corta:dc,desc_larga:dl},'Descripción #'+id+' guardada');
+}
+function toggleFlag(id,campo,el){
+  el.classList.toggle('on');
+  var val=el.classList.contains('on');
+  var patch={};patch[campo]=val;
+  guardar(id,patch,(val?'✓':'✗')+' '+campo+' #'+id);
+}
+function copiarLink(id){
+  var url='https://yaelsescovich-hub.github.io/marketplace/#p'+id;
+  if(navigator.clipboard){navigator.clipboard.writeText(url).then(function(){msg('Link copiado ✔','ok');});}
+  else{msg(url,'ok');}
+}
+byId('buscar').addEventListener('input',pintar);
+byId('filtEst').addEventListener('change',pintar);
+
+function handleFotos(files){
+  Array.from(files).forEach(function(f){
+    var rd=new FileReader();
+    rd.onload=function(e2){
+      fotosNuevas.push(e2.target.result);
+      var im=document.createElement('img');
+      im.src=e2.target.result;
+      im.style.cssText='width:60px;height:45px;object-fit:cover;border-radius:7px;';
+      byId('fotosPreview').appendChild(im);
+    };
+    rd.readAsDataURL(f);
+  });
+}
+
+async function guardarNuevo(){
+  var nom=(byId('nNombre').value||'').trim();
+  var pre=parseInt(byId('nPrecio').value,10)||0;
+  if(!nom||!pre){msg('Nombre y precio obligatorios','err');return;}
+  var maxId=Math.max.apply(null,CAT.map(function(p){return p.id;}));
+  var newId=maxId+1;
+  var fe=fotosNuevas.length?JSON.stringify(fotosNuevas):null;
+  var campos={
+    id:newId, estado_venta:'disponible',
+    nombre:nom, precio:pre,
+    precio_antes:parseInt(byId('nPrecioAntes').value,10)||null,
+    categoria:byId('nCat').value,
+    estado:byId('nEstado').value,
+    medidas:(byId('nMedidas').value||'').trim(),
+    desc_corta:(byId('nDesc').value||'').trim(),
+    desc_larga:(byId('nDescLarga').value||'').trim(),
+    link_pago:(byId('nLinkPago').value||'').trim(),
+    marca:(byId('nMarca').value||'').trim(),
+    exclusiva:byId('chkExclusiva').classList.contains('on'),
+    etiqueta:byId('chkEtiqueta').classList.contains('on'),
+    fotos_extra:fe,
+    updated_at:new Date().toISOString()
+  };
+  msg('Guardando #'+newId+'...','info');
+  var r=await db.from('tienda_estado').upsert(campos,{onConflict:'id'});
+  if(r.error){msg('Error: '+r.error.message,'err');return;}
+  OVR[newId]=campos;
+  CAT.push({id:newId,nombre:nom,categoria:campos.categoria,precio:pre,precioAntes:campos.precio_antes||0,
+    estado:campos.estado,medidas:campos.medidas,desc:campos.desc_corta,descLarga:campos.desc_larga,
+    foto:fotosNuevas[0]||'',fotos:fotosNuevas.slice(),estadoVenta:'disponible',
+    linkPago:campos.link_pago,marca:campos.marca,talla:'',exclusiva:campos.exclusiva,etiqueta:campos.etiqueta});
+  fotosNuevas=[];byId('fotosPreview').innerHTML='';
+  ['nNombre','nPrecio','nPrecioAntes','nMedidas','nDesc','nDescLarga','nLinkPago','nMarca'].forEach(function(i){byId(i).value='';});
+  ['chkExclusiva','chkEtiqueta','chkNuevo'].forEach(function(i){byId(i).classList.remove('on');});
+  msg('✅ Producto #'+newId+' guardado. Visible en segundos.','ok');
+  byId('filtEst').value='disponible'; pintar();
+}
+</script>
+</body>
+</html>
